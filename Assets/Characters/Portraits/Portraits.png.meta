@@ -1,0 +1,3511 @@
+fileFormatVersion: 2
+guid: daf3a55c8de86b7489750f9bb403a02f
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 0.9
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Portraits_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2375.0454
+        width: 95
+        height: 87.954544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ac9f0f1b5be16f45ae7d48a3a43d949
+      internalID: -171224300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portraits_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 2375.0454
+        width: 95
+        height: 87.954544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5ba506b43c740e409e0e127f5dee96a
+      internalID: -1641672468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portraits_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 2375.0454
+        width: 95
+        height: 87.954544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79cdc662ac858ef42abe30547d5bd800
+      internalID: 2144332372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portraits_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 2375.0454
+        width: 95
+        height: 87.954544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25900d52314d3f5409a87f301aa52ce4
+      internalID: -751526064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portraits_4
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 2375.0454
+        width: 95
+        height: 87.954544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee3d50d019d022746874dd3cca034d3c
+      internalID: -23890155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portraits_5
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 2375.0454
+        width: 95
+        height: 87.954544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 624bd397bd3858f4191407bb710b4aad
+      internalID: -1666250185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portraits_6
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 2375.0454
+        width: 95
+        height: 87.954544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b87d2a6a5ab04b4c9220662e03940e0
+      internalID: 2001241128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portraits_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2264.0454
+        width: 95
+        height: 87.954544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ae03f81b966a6f4aad299d9363b2187
+      internalID: 1076091354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portraits_8
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 2264.0454
+        width: 95
+        height: 87.954544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cd38de5d4f079f4484995846c652005
+      internalID: -790864300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portraits_9
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 2264.0454
+        width: 95
+        height: 87.954544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b697c0ebfcec26419e933e10fdc8f4b
+      internalID: -1468379107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portraits_10
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 2264.0454
+        width: 95
+        height: 87.954544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd05a7f5f099dd74095fafaaadfc4229
+      internalID: -1001133556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portraits_11
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 2264.0454
+        width: 95
+        height: 87.954544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3d903046ab766a47a7e27b2e1b5e51d
+      internalID: 1543080415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portraits_12
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 2264.0454
+        width: 95
+        height: 87.954544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56c4a752f1e0dde419a274d51889e3b2
+      internalID: 580031434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portraits_13
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 2264.0454
+        width: 95
+        height: 87.954544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cee186c1355adaf43bbf67f3743349b2
+      internalID: 1131140055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portraits_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2153.0454
+        width: 95
+        height: 87.954544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c0814034bddc97458ba4b5af5567120
+      internalID: -1257334050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portraits_15
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 2153.0454
+        width: 95
+        height: 87.954544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cffbb2052b75c8b4eaf1a4eee3f974e5
+      internalID: 65067798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portraits_16
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 2153.0454
+        width: 95
+        height: 87.954544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cc89c9efc589dc4c8d52b7deb92a5f2
+      internalID: -1565187680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portraits_17
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 2153.0454
+        width: 95
+        height: 87.954544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 214d6e43ffe320342a0b1e05e8465108
+      internalID: -1143993191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portraits_18
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 2153.0454
+        width: 95
+        height: 87.954544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cce56624a6ee1b6489c092169ab1100b
+      internalID: 1236417095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portraits_19
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 2153.0454
+        width: 95
+        height: 87.954544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47670f7582e4da647901dcee32c3903b
+      internalID: -2074521108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portraits_20
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 2153.0454
+        width: 95
+        height: 87.954544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f09b54a2a29093e4db61a5995b5bcdd4
+      internalID: -1579001859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portraits_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2042.0454
+        width: 95
+        height: 87.954544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 018cbba0d24501d4a907fd095c2fff69
+      internalID: -424539998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portraits_22
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 2042.0454
+        width: 95
+        height: 87.954544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51a0f6d6bff2c12449dac7922bac5d0c
+      internalID: 1779439564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portraits_23
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 2042.0454
+        width: 95
+        height: 87.954544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc11990797856154eaaafb494a761266
+      internalID: -689161912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portraits_24
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 2042.0454
+        width: 95
+        height: 87.954544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8be8510f3278fda46ab4461a58d15d61
+      internalID: -1515928000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portraits_25
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 2042.0454
+        width: 95
+        height: 87.954544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3c4b97b17b109d46b43053b57166bb1
+      internalID: 551984137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portraits_26
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 2042.0454
+        width: 95
+        height: 87.954544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f3f023c25f38214ca17ba657444bd83
+      internalID: -137553838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portraits_27
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 2042.0454
+        width: 95
+        height: 87.954544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0de4131d0dc674f41857478bed61dcea
+      internalID: -2505837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portraits_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1931.0454
+        width: 95
+        height: 87.954544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee98455af443d7a41a21c6d711f17fdd
+      internalID: -888212667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portraits_29
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1931.0454
+        width: 95
+        height: 87.954544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a7ba3a2cdd2ee34aa88649de598dde6
+      internalID: -1775530123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portraits_30
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1931.0454
+        width: 95
+        height: 87.954544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9625138093931304485096a2798bf1d0
+      internalID: 1364156815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portraits_31
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1931.0454
+        width: 95
+        height: 87.954544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf7bb872164b3d24e9460599cdb636be
+      internalID: -1857732956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portraits_32
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1931.0454
+        width: 95
+        height: 87.954544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ffee935bc8a6dc4dbe3e288db600354
+      internalID: -1891181678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portraits_33
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1931.0454
+        width: 95
+        height: 87.954544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4622d785f70f4d241849bf0b5272862c
+      internalID: -904285261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portraits_34
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1931.0454
+        width: 95
+        height: 87.954544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c8f2c63334aa5a41910bad343e33934
+      internalID: 1975038449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portraits_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1820.0454
+        width: 95
+        height: 87.954544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0db5e444132267499f6b2f8b798c2e8
+      internalID: -1604074820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portraits_36
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1820.0454
+        width: 95
+        height: 87.954544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c0567ab3733ecd428dd9a15809a7b0c
+      internalID: 171892759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portraits_37
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1820.0454
+        width: 95
+        height: 87.954544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2d286aef1366c249b5c9188d676ff0d
+      internalID: 1633208525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portraits_38
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1820.0454
+        width: 95
+        height: 87.954544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22d2cb6fb1ef97048a12a85bc85ffbdb
+      internalID: -1038294707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portraits_39
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1820.0454
+        width: 95
+        height: 87.954544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa1d17498f5338147b794fb14d7f3d5d
+      internalID: -2085626955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portraits_40
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1820.0454
+        width: 95
+        height: 87.954544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6eef8f284c1aea4cbe566503ed92fb8
+      internalID: 1928792145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portraits_41
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1820.0454
+        width: 95
+        height: 87.954544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17bdb3a4b655ba24e9da15798011a96d
+      internalID: 221630408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portraits_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1709.0454
+        width: 95
+        height: 87.954544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a47e07409d951ee46989e42d1b3e38cf
+      internalID: -445390460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portraits_43
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1709.0454
+        width: 95
+        height: 87.954544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7450b7ceaaad864aae65098d407a01e
+      internalID: 2072433760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portraits_44
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1709.0454
+        width: 95
+        height: 87.954544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0746583ceb81aad4c9fca9c9c3ce8fe9
+      internalID: -1146028514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portraits_45
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1709.0454
+        width: 95
+        height: 87.954544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c51320177c64054cb548cab7e7e55e0
+      internalID: 1235024073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portraits_46
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1709.0454
+        width: 95
+        height: 87.954544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 399f450fd4c925f4aae9557b4c4475fb
+      internalID: -1866333124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portraits_47
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1709.0454
+        width: 95
+        height: 87.954544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dfc840963020934f9a865a93fc6e822
+      internalID: 1896485198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portraits_48
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1709.0454
+        width: 95
+        height: 87.954544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c942380e805bf0147bcb793c09c5efa7
+      internalID: 1122640855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portraits_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1598.0454
+        width: 95
+        height: 87.954544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6909be28154aa043b25eaa2bc9e1b3f
+      internalID: -866514467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portraits_50
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1598.0454
+        width: 95
+        height: 87.954544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d094afe204dbe947a6425607b2d2fa5
+      internalID: -222387884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portraits_51
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1598.0454
+        width: 95
+        height: 87.954544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7f2a76b642317b4db5bca4b4c5e8a90
+      internalID: 1365676434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portraits_52
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1598.0454
+        width: 95
+        height: 87.954544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48e35b07360adbf40bbeeb2b68b52ed8
+      internalID: 879715353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portraits_53
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1598.0454
+        width: 95
+        height: 87.954544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e5e8ebca09de594289eb6cbb828a231
+      internalID: 1710566722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portraits_54
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1598.0454
+        width: 95
+        height: 87.954544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc9786cbe33b1d2409630f580b920c25
+      internalID: 1222608594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portraits_55
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1598.0454
+        width: 95
+        height: 87.954544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46d0fc50feca98c4789efbbfc9b42cad
+      internalID: 690076356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portraits_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1487.0454
+        width: 95
+        height: 87.954544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3117b733b2e120488dd73aa544a1f25
+      internalID: 527141888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portraits_57
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1487.0454
+        width: 95
+        height: 87.954544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aab5227f0e2a9d43a79c593ff719131
+      internalID: 1714390116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portraits_58
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1487.0454
+        width: 95
+        height: 87.954544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d704b0b05330e4846a8d2ef8e5afe838
+      internalID: -653777716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portraits_59
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1487.0454
+        width: 95
+        height: 87.954544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1e49baddc57c4a4bb5f14350ded496e
+      internalID: -717522749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portraits_60
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1487.0454
+        width: 95
+        height: 87.954544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01260a7a01473ac49ba499f9ec116e23
+      internalID: 1921951083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portraits_61
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1487.0454
+        width: 95
+        height: 87.954544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16376731e23d56248866fad1306f5b55
+      internalID: -1689850592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portraits_62
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1487.0454
+        width: 95
+        height: 87.954544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7ecfbd5fae8f794cb5c126c27bff8ac
+      internalID: -370419928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portraits_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1376.0454
+        width: 95
+        height: 87.954544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01fbbb7f6dca1d646a1a79d9f018640d
+      internalID: 50137543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portraits_64
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1376.0454
+        width: 95
+        height: 87.954544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fd396085e03bbb49abef38ca568f8c9
+      internalID: 514888989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portraits_65
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1376.0454
+        width: 95
+        height: 87.954544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2aa854a3d1e9ec46a16514ab226b35e
+      internalID: 1897214736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portraits_66
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1376.0454
+        width: 95
+        height: 87.954544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 588e6743fb05f394189d7e2d5b119e00
+      internalID: -833190898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portraits_67
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1376.0454
+        width: 95
+        height: 87.954544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5410052d49ceb7c4e8bffdf7d195813c
+      internalID: -171466866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portraits_68
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1376.0454
+        width: 95
+        height: 87.954544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e898b017350cf545b510481bc1bb7a2
+      internalID: -229184827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portraits_69
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1376.0454
+        width: 95
+        height: 87.954544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51751ceabf468ee42a42a4e5f30cfbcb
+      internalID: -1575685889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portraits_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1265.0454
+        width: 95
+        height: 87.954544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3edc6393d817bd14f8eb6dec510f6ee4
+      internalID: -1812571460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portraits_71
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1265.0454
+        width: 95
+        height: 87.954544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 761f7417a9c1f03418e3b5d6221a083c
+      internalID: -58535266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portraits_72
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1265.0454
+        width: 95
+        height: 87.954544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d195e7c87d5561c479960a7c7388f637
+      internalID: -1144242822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portraits_73
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1265.0454
+        width: 95
+        height: 87.954544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8816a5b42e09b7d4c9f37bfddc1f247e
+      internalID: -823171509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portraits_74
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1265.0454
+        width: 95
+        height: 87.954544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcac49abdf893d84487f7425c6a100a2
+      internalID: 1743464922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portraits_75
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1265.0454
+        width: 95
+        height: 87.954544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a57df4e8c215e50428a43272229de7a5
+      internalID: 437649398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portraits_76
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1265.0454
+        width: 95
+        height: 87.954544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2926a0b0759ba54099d04ccdb76cecb
+      internalID: -682937137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portraits_77
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1154.0454
+        width: 95
+        height: 87.954544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c79591d7a8f3d840a665f5d8d7b1334
+      internalID: 926283891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portraits_78
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1154.0454
+        width: 95
+        height: 87.954544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04deb799b05946a4abfaccd42bc77261
+      internalID: 33736003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portraits_79
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1154.0454
+        width: 95
+        height: 87.954544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb2d77e824eb517468fe87e0c9c5715f
+      internalID: 1903281935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portraits_80
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1154.0454
+        width: 95
+        height: 87.954544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21c7cb8e6ae3a3047ae430c07b968aad
+      internalID: 273156872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portraits_81
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1154.0454
+        width: 95
+        height: 87.954544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13e237538ae754848822e0d91aa99298
+      internalID: -1936264028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portraits_82
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1154.0454
+        width: 95
+        height: 87.954544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6b0abd5b656f4f42879f6ff740618b3
+      internalID: -1318558516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portraits_83
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1154.0454
+        width: 95
+        height: 87.954544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73bde19a5c0b4e94eb09a4ff316ce89a
+      internalID: 1423004923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portraits_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1043.0454
+        width: 95
+        height: 87.954544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14f849979d663e745a8eb03935e09d75
+      internalID: -538958850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portraits_85
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1043.0454
+        width: 95
+        height: 87.954544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a642f231638cb3489aac3aec7c504e3
+      internalID: 469661744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portraits_86
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1043.0454
+        width: 95
+        height: 87.954544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91ca645d0a8aec64083ea81fd6b3de09
+      internalID: 447313728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portraits_87
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1043.0454
+        width: 95
+        height: 87.954544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a44619c5a0a16242a713a0ed654ef3f
+      internalID: 859954558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portraits_88
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1043.0454
+        width: 95
+        height: 87.954544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a66a23092351774b82153499373639e
+      internalID: -1042545154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portraits_89
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1043.0454
+        width: 95
+        height: 87.954544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 323e8fae5a8293b40bca5db7892c915f
+      internalID: 1064428250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portraits_90
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1043.0454
+        width: 95
+        height: 87.954544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae7b1f7f03fde9944b3c70170888dea5
+      internalID: 879839750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portraits_91
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 932.0455
+        width: 95
+        height: 87.954544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a87efaf5528609042a648c1dcffc0e66
+      internalID: -1884978055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portraits_92
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 932.0455
+        width: 95
+        height: 87.954544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36f3168935b3b76418d5fdfb4c1fd5d7
+      internalID: -1096068923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portraits_93
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 932.0455
+        width: 95
+        height: 87.954544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ffa7481eedbf1b40b562e073c28f9b4
+      internalID: -1397639517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portraits_94
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 932.0455
+        width: 95
+        height: 87.954544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 268f2ac38b056f64c8b658de42d14470
+      internalID: 926533882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portraits_95
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 932.0455
+        width: 95
+        height: 87.954544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35d28b49367c5504586d95ac0e1c59b6
+      internalID: -1654641363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portraits_96
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 932.0455
+        width: 95
+        height: 87.954544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1663c1797785fcc45a26037bd9c959f9
+      internalID: 2083942806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portraits_97
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 932.0455
+        width: 95
+        height: 87.954544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fba6a2b88f3475418bc27f05d492d79
+      internalID: -1154072579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portraits_98
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 821.0455
+        width: 95
+        height: 87.954544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcd5cf0e0bd855d4fbd2741a5c54ca88
+      internalID: 1194235161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portraits_99
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 821.0455
+        width: 95
+        height: 87.954544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2042b46f7e94a2744836dee06a1b9a9b
+      internalID: 661286431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portraits_100
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 821.0455
+        width: 95
+        height: 87.954544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f7630e4850979c4ab2c6554098582c7
+      internalID: -798353933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portraits_101
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 821.0455
+        width: 95
+        height: 87.954544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e31dc997ebd00f4886df4ea0262b4b0
+      internalID: 1143426717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portraits_102
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 821.0455
+        width: 95
+        height: 87.954544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f302aadfe72244418ad3de5de45b979
+      internalID: -1327731187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portraits_103
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 821.0455
+        width: 95
+        height: 87.954544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fee9a6350a1eb5243bdc7e8406f6f61c
+      internalID: -615728028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portraits_104
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 821.0455
+        width: 95
+        height: 87.954544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cce3e6348fdd0e24782336e4b6f643ab
+      internalID: 384074076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portraits_105
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 710.0455
+        width: 95
+        height: 87.954544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89ce215f2002c2f48badb8ae7e7606fe
+      internalID: -1000226395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portraits_106
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 710.0455
+        width: 95
+        height: 87.954544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74fa84c3b9fce0a4d9333a0f88768912
+      internalID: -1006077839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portraits_107
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 710.0455
+        width: 95
+        height: 87.954544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed52c2009774022419b24133c740ff40
+      internalID: -963857210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portraits_108
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 710.0455
+        width: 95
+        height: 87.954544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01f67c1f40d6ec348b00349cd55e0287
+      internalID: -1367684335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portraits_109
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 710.0455
+        width: 95
+        height: 87.954544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbdc97f0f54c023489b22248998c7999
+      internalID: 136531981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portraits_110
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 710.0455
+        width: 95
+        height: 87.954544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0612cfb7a0a92c343b17b4cf99fb4073
+      internalID: 1928964612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portraits_111
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 710.0455
+        width: 95
+        height: 87.954544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0237e34ca65f6c34c98950d0f1425944
+      internalID: -1524203943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portraits_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 599.0455
+        width: 95
+        height: 87.954544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e2c4fe3ce87fdf4b864868bd6a75d7b
+      internalID: -1319961565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portraits_113
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 599.0455
+        width: 95
+        height: 87.954544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cf62b73970533040b3cdf35139537de
+      internalID: 1681231929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portraits_114
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 599.0455
+        width: 95
+        height: 87.954544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9c978b57cef3dc4296c3975ef006378
+      internalID: -1932893862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portraits_115
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 599.0455
+        width: 95
+        height: 87.954544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab95b2cf1d31fff4382a07e788a07548
+      internalID: -950948868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portraits_116
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 599.0455
+        width: 95
+        height: 87.954544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d41329c9739cef4f9311fcd7b3f6dd0
+      internalID: -1926956800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portraits_117
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 599.0455
+        width: 95
+        height: 87.954544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81fbd3e31bd15c048a51a4f15c49d3d9
+      internalID: -1639873924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portraits_118
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 599.0455
+        width: 95
+        height: 87.954544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff9a6d9705c0f91439142c5e84113ecb
+      internalID: 1696583308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portraits_119
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 488.04547
+        width: 95
+        height: 87.954544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8ed6f0d35b14b947a4c6a6eb0320de5
+      internalID: 864271071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portraits_120
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 488.04547
+        width: 95
+        height: 87.954544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39cae80c2c4047447832cc311453ac0c
+      internalID: -5852801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portraits_121
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 488.04547
+        width: 95
+        height: 87.954544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 154ad9976a9426742889549908ca7cf8
+      internalID: -1300841511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portraits_122
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 488.04547
+        width: 95
+        height: 87.954544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80a21202af541f74f96dcfd2db7ceed3
+      internalID: -1302097588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portraits_123
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 488.04547
+        width: 95
+        height: 87.954544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e6b3faf8e823c548bfc7ec1b518107a
+      internalID: 1283685361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portraits_124
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 488.04547
+        width: 95
+        height: 87.954544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a32c29dab4d083b47b8f69109cbb0a9d
+      internalID: -1762742045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portraits_125
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 488.04547
+        width: 95
+        height: 87.954544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a48a7ff5f80c83a418d06a021c778e82
+      internalID: 1605045257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portraits_126
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 377.04547
+        width: 95
+        height: 87.954544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8812550712968914eaff6b7fcf91a397
+      internalID: 1693602339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portraits_127
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 377.04547
+        width: 95
+        height: 87.954544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e51586fc5e411a741869e62b508f4839
+      internalID: -1016979189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portraits_128
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 377.04547
+        width: 95
+        height: 87.954544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccd25a9c177491d4d83b0c89c3f11af0
+      internalID: 1185593928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portraits_129
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 377.04547
+        width: 95
+        height: 87.954544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb5a4ba2a55d08549814e62cf96926d9
+      internalID: -634075341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portraits_130
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 377.04547
+        width: 95
+        height: 87.954544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daa849883a7234f4b92e9ce497629fad
+      internalID: -2074897700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portraits_131
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 377.04547
+        width: 95
+        height: 87.954544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74e9a8ecc0e76d44aae326517a357b44
+      internalID: -1946078422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portraits_132
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 377.04547
+        width: 95
+        height: 87.954544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77de0bfc6201d394c8c7757a32c00a99
+      internalID: 571182754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portraits_133
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 266.04547
+        width: 95
+        height: 87.954544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d5c3286eac87e245b5209abf31db748
+      internalID: -1558118658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portraits_134
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 266.04547
+        width: 95
+        height: 87.954544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41d646b0e711b024fb269eca5d3bb110
+      internalID: -1194219140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portraits_135
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 266.04547
+        width: 95
+        height: 87.954544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17da472a0969f8944b97a79ad0f0a410
+      internalID: 916662356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portraits_136
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 266.04547
+        width: 95
+        height: 87.954544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a90e00040287e7c46a6e896e516439a7
+      internalID: 971039465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portraits_137
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 266.04547
+        width: 95
+        height: 87.954544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 156731306f295bc4f85c0048cbffbede
+      internalID: 1566685276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portraits_138
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 266.04547
+        width: 95
+        height: 87.954544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dc54e4c870e0bb41ad007387a627c42
+      internalID: 1211025572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portraits_139
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 266.04547
+        width: 95
+        height: 87.954544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b534172e914064a4c8bda7a867f78c77
+      internalID: 1053252012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portraits_140
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 155.04546
+        width: 95
+        height: 87.954544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33f7a183fa2a3e94f9bf7f83d79fca53
+      internalID: 11598822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portraits_141
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 155.04546
+        width: 95
+        height: 87.954544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92badd884d839a343b34657a751a4f8e
+      internalID: -294227663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portraits_142
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 155.04546
+        width: 95
+        height: 87.954544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59c3273184b7ca74c9fefffa1abfdee3
+      internalID: 109092324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portraits_143
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 155.04546
+        width: 95
+        height: 87.954544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dac174078a2469542bf27b6b79d4f868
+      internalID: 336940484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portraits_144
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 155.04546
+        width: 95
+        height: 87.954544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5237571a636d57a48a65ba5c71b7ffa7
+      internalID: 314161904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portraits_145
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 155.04546
+        width: 95
+        height: 87.954544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93bc3921bc9b29d45a842f52e0e54678
+      internalID: 658870105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portraits_146
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 155.04546
+        width: 95
+        height: 87.954544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4f5a272aac6a4c4393c37bbb6ae1391
+      internalID: -100283944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portraits_147
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 44.045456
+        width: 95
+        height: 87.954544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88f8d93a36a63134c9a3cf0197d705fc
+      internalID: 824815630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portraits_148
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 44.045456
+        width: 95
+        height: 87.954544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 526d7779d5347a3478bfa3106e7179d8
+      internalID: 425950825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portraits_149
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 44.045456
+        width: 95
+        height: 87.954544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc881987d9a6b4c449e00a080010e48c
+      internalID: -1298875738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portraits_150
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 44.045456
+        width: 95
+        height: 87.954544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95b51119ab7688b4191497e2b6f77d50
+      internalID: 2107027793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portraits_151
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 44.045456
+        width: 95
+        height: 87.954544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 608902e8f85429f45867957513a18608
+      internalID: -1396813543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portraits_152
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 44.045456
+        width: 95
+        height: 87.954544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84d5ffe1e4493094d84a7ed33a44b7ee
+      internalID: 878100196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portraits_153
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 44.045456
+        width: 95
+        height: 87.954544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f1a856678e97c34d829981bb6edc8e1
+      internalID: 918265705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Portraits_0: -171224300
+      Portraits_1: -1641672468
+      Portraits_10: -1001133556
+      Portraits_100: -798353933
+      Portraits_101: 1143426717
+      Portraits_102: -1327731187
+      Portraits_103: -615728028
+      Portraits_104: 384074076
+      Portraits_105: -1000226395
+      Portraits_106: -1006077839
+      Portraits_107: -963857210
+      Portraits_108: -1367684335
+      Portraits_109: 136531981
+      Portraits_11: 1543080415
+      Portraits_110: 1928964612
+      Portraits_111: -1524203943
+      Portraits_112: -1319961565
+      Portraits_113: 1681231929
+      Portraits_114: -1932893862
+      Portraits_115: -950948868
+      Portraits_116: -1926956800
+      Portraits_117: -1639873924
+      Portraits_118: 1696583308
+      Portraits_119: 864271071
+      Portraits_12: 580031434
+      Portraits_120: -5852801
+      Portraits_121: -1300841511
+      Portraits_122: -1302097588
+      Portraits_123: 1283685361
+      Portraits_124: -1762742045
+      Portraits_125: 1605045257
+      Portraits_126: 1693602339
+      Portraits_127: -1016979189
+      Portraits_128: 1185593928
+      Portraits_129: -634075341
+      Portraits_13: 1131140055
+      Portraits_130: -2074897700
+      Portraits_131: -1946078422
+      Portraits_132: 571182754
+      Portraits_133: -1558118658
+      Portraits_134: -1194219140
+      Portraits_135: 916662356
+      Portraits_136: 971039465
+      Portraits_137: 1566685276
+      Portraits_138: 1211025572
+      Portraits_139: 1053252012
+      Portraits_14: -1257334050
+      Portraits_140: 11598822
+      Portraits_141: -294227663
+      Portraits_142: 109092324
+      Portraits_143: 336940484
+      Portraits_144: 314161904
+      Portraits_145: 658870105
+      Portraits_146: -100283944
+      Portraits_147: 824815630
+      Portraits_148: 425950825
+      Portraits_149: -1298875738
+      Portraits_15: 65067798
+      Portraits_150: 2107027793
+      Portraits_151: -1396813543
+      Portraits_152: 878100196
+      Portraits_153: 918265705
+      Portraits_16: -1565187680
+      Portraits_17: -1143993191
+      Portraits_18: 1236417095
+      Portraits_19: -2074521108
+      Portraits_2: 2144332372
+      Portraits_20: -1579001859
+      Portraits_21: -424539998
+      Portraits_22: 1779439564
+      Portraits_23: -689161912
+      Portraits_24: -1515928000
+      Portraits_25: 551984137
+      Portraits_26: -137553838
+      Portraits_27: -2505837
+      Portraits_28: -888212667
+      Portraits_29: -1775530123
+      Portraits_3: -751526064
+      Portraits_30: 1364156815
+      Portraits_31: -1857732956
+      Portraits_32: -1891181678
+      Portraits_33: -904285261
+      Portraits_34: 1975038449
+      Portraits_35: -1604074820
+      Portraits_36: 171892759
+      Portraits_37: 1633208525
+      Portraits_38: -1038294707
+      Portraits_39: -2085626955
+      Portraits_4: -23890155
+      Portraits_40: 1928792145
+      Portraits_41: 221630408
+      Portraits_42: -445390460
+      Portraits_43: 2072433760
+      Portraits_44: -1146028514
+      Portraits_45: 1235024073
+      Portraits_46: -1866333124
+      Portraits_47: 1896485198
+      Portraits_48: 1122640855
+      Portraits_49: -866514467
+      Portraits_5: -1666250185
+      Portraits_50: -222387884
+      Portraits_51: 1365676434
+      Portraits_52: 879715353
+      Portraits_53: 1710566722
+      Portraits_54: 1222608594
+      Portraits_55: 690076356
+      Portraits_56: 527141888
+      Portraits_57: 1714390116
+      Portraits_58: -653777716
+      Portraits_59: -717522749
+      Portraits_6: 2001241128
+      Portraits_60: 1921951083
+      Portraits_61: -1689850592
+      Portraits_62: -370419928
+      Portraits_63: 50137543
+      Portraits_64: 514888989
+      Portraits_65: 1897214736
+      Portraits_66: -833190898
+      Portraits_67: -171466866
+      Portraits_68: -229184827
+      Portraits_69: -1575685889
+      Portraits_7: 1076091354
+      Portraits_70: -1812571460
+      Portraits_71: -58535266
+      Portraits_72: -1144242822
+      Portraits_73: -823171509
+      Portraits_74: 1743464922
+      Portraits_75: 437649398
+      Portraits_76: -682937137
+      Portraits_77: 926283891
+      Portraits_78: 33736003
+      Portraits_79: 1903281935
+      Portraits_8: -790864300
+      Portraits_80: 273156872
+      Portraits_81: -1936264028
+      Portraits_82: -1318558516
+      Portraits_83: 1423004923
+      Portraits_84: -538958850
+      Portraits_85: 469661744
+      Portraits_86: 447313728
+      Portraits_87: 859954558
+      Portraits_88: -1042545154
+      Portraits_89: 1064428250
+      Portraits_9: -1468379107
+      Portraits_90: 879839750
+      Portraits_91: -1884978055
+      Portraits_92: -1096068923
+      Portraits_93: -1397639517
+      Portraits_94: 926533882
+      Portraits_95: -1654641363
+      Portraits_96: 2083942806
+      Portraits_97: -1154072579
+      Portraits_98: 1194235161
+      Portraits_99: 661286431
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

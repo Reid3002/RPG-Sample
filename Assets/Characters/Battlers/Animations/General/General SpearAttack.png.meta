@@ -1,0 +1,783 @@
+fileFormatVersion: 2
+guid: 743a74c45b0ed0a47967f4aa252e5ebc
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 10
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: General SpearAttack_0
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 489
+        width: 70
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ada3e96cbb3d8c45b3724dd490097a3
+      internalID: -851841657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General SpearAttack_1
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 489
+        width: 73
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da22ba6760c7312499c2deec450f0375
+      internalID: 109516806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General SpearAttack_2
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 488
+        width: 72
+        height: 48
+      alignment: 9
+      pivot: {x: 0.4121965, y: 0.1030725}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ee2d54ffb772144d8e87c7f564412d4
+      internalID: 1386616031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General SpearAttack_3
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 487
+        width: 80
+        height: 51
+      alignment: 9
+      pivot: {x: 0.29881555, y: 0.1030725}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fa11723c1ec9e8498981e9f7f485b49
+      internalID: -1331174579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General SpearAttack_4
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 422
+        width: 84
+        height: 53
+      alignment: 9
+      pivot: {x: 0.29875946, y: 0.1030725}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33a78370b4b1eba45a7e4b0a3f1e311e
+      internalID: 1642105094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General SpearAttack_5
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 426
+        width: 84
+        height: 50
+      alignment: 9
+      pivot: {x: 0.3242329, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf58a8d673decd1448ded9a4066b2ecd
+      internalID: 1390837148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General SpearAttack_6
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 428
+        width: 84
+        height: 51
+      alignment: 9
+      pivot: {x: 0.32678005, y: 0.1030725}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2489268d0bab7fb43bc8de30cd786f63
+      internalID: -1052934079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General SpearAttack_7
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 427
+        width: 84
+        height: 50
+      alignment: 9
+      pivot: {x: 0.31659046, y: 0.1030725}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d322b980c9fcba54b9c26fafcb1cf9b7
+      internalID: -1752199122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General SpearAttack_8
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 356
+        width: 85
+        height: 50
+      alignment: 9
+      pivot: {x: 0.39175263, y: 0.1030725}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 602f00c8923d8744a9a49b33d6635f75
+      internalID: 1005466176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General SpearAttack_9
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 360
+        width: 99
+        height: 56
+      alignment: 9
+      pivot: {x: 0.74855906, y: 0.1030725}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45d241632f370284180039f7413264f3
+      internalID: -1143189209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General SpearAttack_10
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 361
+        width: 126
+        height: 46
+      alignment: 9
+      pivot: {x: 0.8260605, y: 0.1030725}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ede0598476150b54cb65831bacd6db1a
+      internalID: -416867049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General SpearAttack_11
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 300
+        width: 126
+        height: 45
+      alignment: 9
+      pivot: {x: 0.8261572, y: 0.1030725}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2575fffcea2bf6644bca0f11337b6ac8
+      internalID: -531103949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General SpearAttack_12
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 303
+        width: 126
+        height: 45
+      alignment: 9
+      pivot: {x: 0.8277799, y: 0.1030725}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 395c0c88eb8071f40a4212fbf98d12a4
+      internalID: -72596338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General SpearAttack_13
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 306
+        width: 126
+        height: 45
+      alignment: 9
+      pivot: {x: 0.82778037, y: 0.1030725}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c38bd283833eadc449778ac4130de287
+      internalID: 1352343361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General SpearAttack_14
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 244
+        width: 126
+        height: 45
+      alignment: 9
+      pivot: {x: 0.8277799, y: 0.1030725}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 252f430c68d7f904284da0c63a7d1102
+      internalID: -1283209851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General SpearAttack_15
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 247
+        width: 126
+        height: 45
+      alignment: 9
+      pivot: {x: 0.8277799, y: 0.1030725}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfe943a7cef699b4c87cc2c5ebe79ba2
+      internalID: 612616578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General SpearAttack_16
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 248
+        width: 123
+        height: 45
+      alignment: 9
+      pivot: {x: 0.84408593, y: 0.1030725}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e28df13fc74847440bee8df62f410b5e
+      internalID: -646533992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General SpearAttack_17
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 186
+        width: 126
+        height: 45
+      alignment: 9
+      pivot: {x: 0.8261572, y: 0.1030725}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7da7ad79fc2419f478058eeba77c7b96
+      internalID: -1482807987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General SpearAttack_18
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 189
+        width: 126
+        height: 45
+      alignment: 9
+      pivot: {x: 0.8245346, y: 0.1030725}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a4fbdd4cce7c5d44aa4717e02c6af64
+      internalID: 646727756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General SpearAttack_19
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 193
+        width: 124
+        height: 45
+      alignment: 9
+      pivot: {x: 0.83966213, y: 0.1030725}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d6dac986969b8a448582ba9c664f5f1
+      internalID: 1834904789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General SpearAttack_20
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 134
+        width: 126
+        height: 45
+      alignment: 9
+      pivot: {x: 0.8277799, y: 0.1030725}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d7778f714c24ee45b9e3e99fd0c56c8
+      internalID: -2126724421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General SpearAttack_21
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 135
+        width: 126
+        height: 45
+      alignment: 9
+      pivot: {x: 0.8245346, y: 0.1030725}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aa94468fec4f9f449d4acd404220917
+      internalID: -1413323157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General SpearAttack_22
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 138
+        width: 80
+        height: 46
+      alignment: 9
+      pivot: {x: 0.6584541, y: 0.1030725}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1bc0d9851be29a488e4171b62cbfe0a
+      internalID: 1158684655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General SpearAttack_23
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 77
+        width: 80
+        height: 45
+      alignment: 9
+      pivot: {x: 0.65334255, y: 0.1030725}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 722d65b385999474baa5da67b115aaa1
+      internalID: -1113614873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General SpearAttack_24
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 80
+        width: 79
+        height: 46
+      alignment: 9
+      pivot: {x: 0.6319912, y: 0.1030725}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be596649913688d4cbcc3d43b55d999d
+      internalID: 1086014209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General SpearAttack_25
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 79
+        width: 79
+        height: 46
+      alignment: 9
+      pivot: {x: 0.6164628, y: 0.1030725}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49eb0fb0b2752fa419ffb6863401d2ce
+      internalID: 1324382985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General SpearAttack_26
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 83
+        width: 73
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5e33a2af727b7d4ca5e06b04f3551ab
+      internalID: -1362358620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General SpearAttack_27
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 15
+        width: 73
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0b49d3cf150afd4ebc6302b11eb6d40
+      internalID: 290727050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General SpearAttack_28
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 18
+        width: 71
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 933cfe89badaf9a409ef952d83236682
+      internalID: 813104534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General SpearAttack_29
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 17
+        width: 71
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6381e15bd044f1f45beb778c17a4148e
+      internalID: -752883509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      General SpearAttack_0: -851841657
+      General SpearAttack_1: 109516806
+      General SpearAttack_10: -416867049
+      General SpearAttack_11: -531103949
+      General SpearAttack_12: -72596338
+      General SpearAttack_13: 1352343361
+      General SpearAttack_14: -1283209851
+      General SpearAttack_15: 612616578
+      General SpearAttack_16: -646533992
+      General SpearAttack_17: -1482807987
+      General SpearAttack_18: 646727756
+      General SpearAttack_19: 1834904789
+      General SpearAttack_2: 1386616031
+      General SpearAttack_20: -2126724421
+      General SpearAttack_21: -1413323157
+      General SpearAttack_22: 1158684655
+      General SpearAttack_23: -1113614873
+      General SpearAttack_24: 1086014209
+      General SpearAttack_25: 1324382985
+      General SpearAttack_26: -1362358620
+      General SpearAttack_27: 290727050
+      General SpearAttack_28: 813104534
+      General SpearAttack_29: -752883509
+      General SpearAttack_3: -1331174579
+      General SpearAttack_4: 1642105094
+      General SpearAttack_5: 1390837148
+      General SpearAttack_6: -1052934079
+      General SpearAttack_7: -1752199122
+      General SpearAttack_8: 1005466176
+      General SpearAttack_9: -1143189209
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

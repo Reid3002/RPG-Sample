@@ -1,0 +1,1003 @@
+fileFormatVersion: 2
+guid: b85fcd76b4de3c3438ce6abed4a812a4
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 0.9
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Eiyuden Chronicle Rising - Potions_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 936
+        width: 134
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0050aa2e8207dee4ea962765ac587748
+      internalID: 2128424612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Eiyuden Chronicle Rising - Potions_1
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 936
+        width: 134
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c334cbb4b7ab62b4c9491b1ccc758c5e
+      internalID: 848884327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Eiyuden Chronicle Rising - Potions_2
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 936
+        width: 134
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b33a2427343d6a46a0efaa27c2a0f95
+      internalID: -634545036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Eiyuden Chronicle Rising - Potions_3
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 936
+        width: 134
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c522ff832dd5c6c4cb67123a1651a03d
+      internalID: -1815078541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Eiyuden Chronicle Rising - Potions_4
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 936
+        width: 134
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91f3f75a94647b641a5c8c4ab7cc2028
+      internalID: -355994014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Eiyuden Chronicle Rising - Potions_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 803
+        width: 134
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 046e61e068b4fa043b7b808ad09522ed
+      internalID: -1991002604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Eiyuden Chronicle Rising - Potions_6
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 803
+        width: 134
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddeff4a0c51ad3e48bfe92418cace17f
+      internalID: -1911239027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Eiyuden Chronicle Rising - Potions_7
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 803
+        width: 134
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36022f93f9b41a24597094c1e1c7d0ae
+      internalID: -368727977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Eiyuden Chronicle Rising - Potions_8
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 803
+        width: 134
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 741946866f78eb64a92b3ffab5299423
+      internalID: -655929300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Eiyuden Chronicle Rising - Potions_9
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 803
+        width: 134
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a4cefa0dc2921b41a52aa99c4ddad3d
+      internalID: 149429612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Eiyuden Chronicle Rising - Potions_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 670
+        width: 134
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 234a1ff87c2f8b74a99e838ee7536b88
+      internalID: -911202647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Eiyuden Chronicle Rising - Potions_11
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 670
+        width: 134
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31007a0a10a3c944eb35c7c8c6ac9359
+      internalID: 259364652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Eiyuden Chronicle Rising - Potions_12
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 670
+        width: 134
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c97cb2e86a9a8542b5f579c2697cbfe
+      internalID: -92649533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Eiyuden Chronicle Rising - Potions_13
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 670
+        width: 134
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ba0fad228069e34992d36e838d6ca49
+      internalID: 915771016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Eiyuden Chronicle Rising - Potions_14
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 670
+        width: 134
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3d67ef8afd12844fbabc954e73834f6
+      internalID: 1551437990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Eiyuden Chronicle Rising - Potions_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 537
+        width: 134
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c850de34edbb03f4ca085067a2318368
+      internalID: 215820500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Eiyuden Chronicle Rising - Potions_16
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 537
+        width: 134
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bed6a7ab366c6f943aa150c47f653d63
+      internalID: 1816964676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Eiyuden Chronicle Rising - Potions_17
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 537
+        width: 134
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 053a3c170d566a846a16e062f73338fb
+      internalID: 527216465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Eiyuden Chronicle Rising - Potions_18
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 537
+        width: 134
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dec3060ec92c6df45ac2b7e8971ab94d
+      internalID: -491764515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Eiyuden Chronicle Rising - Potions_19
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 537
+        width: 134
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d4213a75d594b94d8d68afc908c9025
+      internalID: 913301100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Eiyuden Chronicle Rising - Potions_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 404
+        width: 134
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee53b35f1e34ee64cb876c4a4c5504d4
+      internalID: 865880591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Eiyuden Chronicle Rising - Potions_21
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 404
+        width: 134
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98eb51984bd938b40b6c6e5fac63deba
+      internalID: -887841133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Eiyuden Chronicle Rising - Potions_22
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 404
+        width: 134
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e3d0b3ab1cfbe84db0cef3b16ef1039
+      internalID: -105678851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Eiyuden Chronicle Rising - Potions_23
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 404
+        width: 134
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d084a6d6e81004740af81b4d310122a5
+      internalID: -1093533428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Eiyuden Chronicle Rising - Potions_24
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 404
+        width: 134
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb6caf4de04bd974699bcd24d702d55c
+      internalID: 246278139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Eiyuden Chronicle Rising - Potions_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 271
+        width: 134
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a7e6c107e1296947a0503c74898dc40
+      internalID: 671764272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Eiyuden Chronicle Rising - Potions_26
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 271
+        width: 134
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 973f175aa99e08640bddd01fd1af76f0
+      internalID: -1436571718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Eiyuden Chronicle Rising - Potions_27
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 271
+        width: 134
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dd841baf29efca4daf02da0140e84b6
+      internalID: -57754041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Eiyuden Chronicle Rising - Potions_28
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 271
+        width: 134
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ed6c6855a130444fa86cc1b339770b0
+      internalID: 1769335423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Eiyuden Chronicle Rising - Potions_29
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 271
+        width: 134
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc72e2d232e0b684286229e462bfd2d1
+      internalID: 371555904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Eiyuden Chronicle Rising - Potions_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 138
+        width: 134
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 525b88575c29f2748b82bbc7b2daaaff
+      internalID: -1285013801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Eiyuden Chronicle Rising - Potions_31
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 138
+        width: 134
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da1afaa9743d33f4bb33b7e75ef2fc71
+      internalID: 1895409612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Eiyuden Chronicle Rising - Potions_32
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 138
+        width: 134
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9dcdcb1d8a7c6640b15a3d10d655eae
+      internalID: 66992002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Eiyuden Chronicle Rising - Potions_33
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 138
+        width: 134
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c6aef915465a6449afc5e700f8e4251
+      internalID: 952574291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Eiyuden Chronicle Rising - Potions_34
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 138
+        width: 134
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfd16e10407cb274bbbc4d90a0202e54
+      internalID: 1977948304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Eiyuden Chronicle Rising - Potions_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5
+        width: 134
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0837f61a5352e0d47992da2149869e43
+      internalID: 405002106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Eiyuden Chronicle Rising - Potions_36
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 5
+        width: 134
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25be70e37c3e378478684863dcef7b8b
+      internalID: 980444539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Eiyuden Chronicle Rising - Potions_37
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 5
+        width: 134
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb917b01a9fd4af48b1cda248556be03
+      internalID: -1099245514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Eiyuden Chronicle Rising - Potions_38
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 5
+        width: 134
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2edc78a5b8b2fbd4485952c493f8c2e9
+      internalID: -168041636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Eiyuden Chronicle Rising - Potions_39
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 5
+        width: 134
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89f3b3f3114af0d48b6bcf0c4cb63493
+      internalID: -1462408819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PC Computer - Eiyuden Chronicle Rising - Potions_0: 2128424612
+      PC Computer - Eiyuden Chronicle Rising - Potions_1: 848884327
+      PC Computer - Eiyuden Chronicle Rising - Potions_10: -911202647
+      PC Computer - Eiyuden Chronicle Rising - Potions_11: 259364652
+      PC Computer - Eiyuden Chronicle Rising - Potions_12: -92649533
+      PC Computer - Eiyuden Chronicle Rising - Potions_13: 915771016
+      PC Computer - Eiyuden Chronicle Rising - Potions_14: 1551437990
+      PC Computer - Eiyuden Chronicle Rising - Potions_15: 215820500
+      PC Computer - Eiyuden Chronicle Rising - Potions_16: 1816964676
+      PC Computer - Eiyuden Chronicle Rising - Potions_17: 527216465
+      PC Computer - Eiyuden Chronicle Rising - Potions_18: -491764515
+      PC Computer - Eiyuden Chronicle Rising - Potions_19: 913301100
+      PC Computer - Eiyuden Chronicle Rising - Potions_2: -634545036
+      PC Computer - Eiyuden Chronicle Rising - Potions_20: 865880591
+      PC Computer - Eiyuden Chronicle Rising - Potions_21: -887841133
+      PC Computer - Eiyuden Chronicle Rising - Potions_22: -105678851
+      PC Computer - Eiyuden Chronicle Rising - Potions_23: -1093533428
+      PC Computer - Eiyuden Chronicle Rising - Potions_24: 246278139
+      PC Computer - Eiyuden Chronicle Rising - Potions_25: 671764272
+      PC Computer - Eiyuden Chronicle Rising - Potions_26: -1436571718
+      PC Computer - Eiyuden Chronicle Rising - Potions_27: -57754041
+      PC Computer - Eiyuden Chronicle Rising - Potions_28: 1769335423
+      PC Computer - Eiyuden Chronicle Rising - Potions_29: 371555904
+      PC Computer - Eiyuden Chronicle Rising - Potions_3: -1815078541
+      PC Computer - Eiyuden Chronicle Rising - Potions_30: -1285013801
+      PC Computer - Eiyuden Chronicle Rising - Potions_31: 1895409612
+      PC Computer - Eiyuden Chronicle Rising - Potions_32: 66992002
+      PC Computer - Eiyuden Chronicle Rising - Potions_33: 952574291
+      PC Computer - Eiyuden Chronicle Rising - Potions_34: 1977948304
+      PC Computer - Eiyuden Chronicle Rising - Potions_35: 405002106
+      PC Computer - Eiyuden Chronicle Rising - Potions_36: 980444539
+      PC Computer - Eiyuden Chronicle Rising - Potions_37: -1099245514
+      PC Computer - Eiyuden Chronicle Rising - Potions_38: -168041636
+      PC Computer - Eiyuden Chronicle Rising - Potions_39: -1462408819
+      PC Computer - Eiyuden Chronicle Rising - Potions_4: -355994014
+      PC Computer - Eiyuden Chronicle Rising - Potions_5: -1991002604
+      PC Computer - Eiyuden Chronicle Rising - Potions_6: -1911239027
+      PC Computer - Eiyuden Chronicle Rising - Potions_7: -368727977
+      PC Computer - Eiyuden Chronicle Rising - Potions_8: -655929300
+      PC Computer - Eiyuden Chronicle Rising - Potions_9: 149429612
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

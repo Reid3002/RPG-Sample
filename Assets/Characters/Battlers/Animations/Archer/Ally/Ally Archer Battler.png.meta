@@ -1,0 +1,1509 @@
+fileFormatVersion: 2
+guid: 0f2f34115436190499270fb1b3cd5d4c
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 10
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ally Archer Battler_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 319
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c02f181c099977941a99ac825e26c355
+      internalID: 416645756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ally Archer Battler_1
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 319
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ca287c44d12a2c44b34e9c80a0b42d7
+      internalID: 642995179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ally Archer Battler_2
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 319
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecff6b88aa28cb14a91df63246aeddfd
+      internalID: 450098266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ally Archer Battler_3
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 319
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4fa19d9c1da62a49937c67d15787f4d
+      internalID: -460523111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ally Archer Battler_4
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 319
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb4be4e71a8a7d048be6dca29bd5de36
+      internalID: 439296132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ally Archer Battler_5
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 319
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bc10d3d55f7da4479e19b59c7c738dc
+      internalID: 1689590664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ally Archer Battler_6
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 319
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d71770577483df340b3d2cffd722513c
+      internalID: 2030667843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ally Archer Battler_7
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 319
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f19b940a4e169c24595eeae89ba9f8e5
+      internalID: 400513471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ally Archer Battler_8
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 319
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2298f7df4d6afa24280a1eb80a972dd6
+      internalID: 1490022820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ally Archer Battler_9
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 319
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1680a4dcb23c8aa4abd48925076c0b70
+      internalID: 833634004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ally Archer Battler_10
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 319
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cd27b6958c76b04cbda6ae0407dbb9c
+      internalID: 1608013557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ally Archer Battler_11
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 279
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b82034a0e6b4a24e9de7a20841827d0
+      internalID: 1018261685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ally Archer Battler_12
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 279
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1fd28c82873bbd4d92ee86d2c8790c5
+      internalID: -2019157781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ally Archer Battler_13
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 279
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c809e6288e7bb34b91a386848064904
+      internalID: -1935586440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ally Archer Battler_14
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 280
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e42b19200df56ad4e80e3e2580463a3c
+      internalID: -1124372504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ally Archer Battler_15
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 281
+        width: 39
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f5d6a8439452e74cb009424d5fcff9e
+      internalID: -1471928129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ally Archer Battler_16
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 280
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 035136bcefb423043bde1b22770f9289
+      internalID: -716838090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ally Archer Battler_17
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 280
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f33c6298986ed904e9064f51febd3b77
+      internalID: 1053979027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ally Archer Battler_18
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 281
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc0a70bfb3100f54493986cedea105fd
+      internalID: -515863282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ally Archer Battler_19
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 282
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad63b45e6eac56e42966ef8471f3056e
+      internalID: 1549951081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ally Archer Battler_20
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 282
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36f6888401bb93d42b6f7692097c67e7
+      internalID: 672252885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ally Archer Battler_21
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 227
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 260349eb6f21dbf4e80cb0eb70a18101
+      internalID: -1080117011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ally Archer Battler_22
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 226
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb8ca553c6cbe164d8b29515f7f06bc6
+      internalID: 566347388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ally Archer Battler_23
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 227
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a6504c5043f32444b76b188eecf1da6
+      internalID: -203838129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ally Archer Battler_24
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 228
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72a846c4f11480d48b1ede9db8a01332
+      internalID: 224798519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ally Archer Battler_25
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 252
+        width: 19
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63397f20adcd2794fbb65add6b417556
+      internalID: 1598826393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ally Archer Battler_26
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 229
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c9ff11761bc26c4584bd9bd96dc8636
+      internalID: 220593582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ally Archer Battler_27
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 231
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96f921b9d5103e74199f6c5c49b43df6
+      internalID: 552875313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ally Archer Battler_28
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 195
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a74448663ac8b2a45b8ac5e7ffa67a2e
+      internalID: 78075063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ally Archer Battler_29
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 195
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e238b33669fc1bf43a6cc3c1ae4996cd
+      internalID: 297008493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ally Archer Battler_30
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 195
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bd11572b48c7b344b0c6aa3cec763d8
+      internalID: 822266221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ally Archer Battler_31
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 195
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f313cf65caf6561458478cec89773e1c
+      internalID: -1443849722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ally Archer Battler_32
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 195
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf61871e5ced25743a204696b09f2b82
+      internalID: -143661227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ally Archer Battler_33
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 195
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e5ca60beac3ba64a839e8bc5c6ca0c7
+      internalID: 176306672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ally Archer Battler_34
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 195
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fa34f349d0f58341946cdbb0d0b231a
+      internalID: -1029175772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ally Archer Battler_35
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 195
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e900250e9b14874d803d8929307e3d6
+      internalID: -1388110378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ally Archer Battler_36
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 195
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60659671dba1c0341b5f8deedd23cfbb
+      internalID: -337657613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ally Archer Battler_37
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 195
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47c3afa6ffb2daa499c441e46c360332
+      internalID: -1285801400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ally Archer Battler_38
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 195
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54c80a1d702967047bac285de56d8a37
+      internalID: 641877115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ally Archer Battler_39
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 195
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d01b020540d158a47b8e0fdd8533ec41
+      internalID: -1000928450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ally Archer Battler_40
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 192
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f01c2d7f9bf9dac4783ebe2e537a7fec
+      internalID: -581707772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ally Archer Battler_41
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 192
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c73e7c88b5a0ea449938262346bbeda
+      internalID: 250485483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ally Archer Battler_42
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 192
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1deba054b9dd15147a0720fc721e49c6
+      internalID: -1388976654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ally Archer Battler_43
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 190
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 565d15c52c8d22e4ab2f1828e0a3caa6
+      internalID: 1882000535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ally Archer Battler_44
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 192
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a10606c2c93619e43b191f480ae7c569
+      internalID: -516482527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ally Archer Battler_45
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 147
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd4027cca6e0f4c4c899f95479d1c127
+      internalID: 1416169064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ally Archer Battler_46
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 147
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dd3f1c547fa22941a568cf0fbb6cc60
+      internalID: 234520501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ally Archer Battler_47
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 147
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79114ee5b722a4642b39946f3ecfade0
+      internalID: 1664273881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ally Archer Battler_48
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 146
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3d67507d5e6f1841955da061af7c9a8
+      internalID: 810689259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ally Archer Battler_49
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 146
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efeda0f82ce0eeb4a8a4a8e2513193ff
+      internalID: 1361515731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ally Archer Battler_50
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 145
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24122d49b25e2394e95b193b1dcb87fb
+      internalID: -980580330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ally Archer Battler_51
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 146
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8505913223d78444b980a8f1f215ccd1
+      internalID: -2125023190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ally Archer Battler_52
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 96
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9eae9ed97838ca458af6396402202e7
+      internalID: -38155451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ally Archer Battler_53
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 97
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40b298392272ab74f993ba4b089340c4
+      internalID: 1983725709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ally Archer Battler_54
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 98
+        width: 40
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f433b5adbd203045861131080cbf346
+      internalID: -1554585967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ally Archer Battler_55
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 98
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b434f835a2dfa2b46a932e181ba4900e
+      internalID: -1101960342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ally Archer Battler_56
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 51
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb0d71cdde960cf499e7f8e6deb0b3d5
+      internalID: 804303034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ally Archer Battler_57
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 50
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34744d2a1c8d87a4cafd50bcce3a334a
+      internalID: -755597642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ally Archer Battler_58
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 50
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dc96956dd566b8448f6c85f69612e9d
+      internalID: 1675390178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ally Archer Battler_59
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 71
+        width: 19
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 139ea6e51f1bbb74887df2c43113145f
+      internalID: -1333836265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ally Archer Battler_60
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 48
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2855fc81cc79d3a47b8adbdafa5e16da
+      internalID: -2132258054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ally Archer Battler_61
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 5
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c324b4c969c626489cacdfb4bdc9199
+      internalID: 626735133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ally Archer Battler_62
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 5
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87d16f7ebcbb67b439ca724e99536ca1
+      internalID: 187994317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Ally Archer Battler_0: 416645756
+      Ally Archer Battler_1: 642995179
+      Ally Archer Battler_10: 1608013557
+      Ally Archer Battler_11: 1018261685
+      Ally Archer Battler_12: -2019157781
+      Ally Archer Battler_13: -1935586440
+      Ally Archer Battler_14: -1124372504
+      Ally Archer Battler_15: -1471928129
+      Ally Archer Battler_16: -716838090
+      Ally Archer Battler_17: 1053979027
+      Ally Archer Battler_18: -515863282
+      Ally Archer Battler_19: 1549951081
+      Ally Archer Battler_2: 450098266
+      Ally Archer Battler_20: 672252885
+      Ally Archer Battler_21: -1080117011
+      Ally Archer Battler_22: 566347388
+      Ally Archer Battler_23: -203838129
+      Ally Archer Battler_24: 224798519
+      Ally Archer Battler_25: 1598826393
+      Ally Archer Battler_26: 220593582
+      Ally Archer Battler_27: 552875313
+      Ally Archer Battler_28: 78075063
+      Ally Archer Battler_29: 297008493
+      Ally Archer Battler_3: -460523111
+      Ally Archer Battler_30: 822266221
+      Ally Archer Battler_31: -1443849722
+      Ally Archer Battler_32: -143661227
+      Ally Archer Battler_33: 176306672
+      Ally Archer Battler_34: -1029175772
+      Ally Archer Battler_35: -1388110378
+      Ally Archer Battler_36: -337657613
+      Ally Archer Battler_37: -1285801400
+      Ally Archer Battler_38: 641877115
+      Ally Archer Battler_39: -1000928450
+      Ally Archer Battler_4: 439296132
+      Ally Archer Battler_40: -581707772
+      Ally Archer Battler_41: 250485483
+      Ally Archer Battler_42: -1388976654
+      Ally Archer Battler_43: 1882000535
+      Ally Archer Battler_44: -516482527
+      Ally Archer Battler_45: 1416169064
+      Ally Archer Battler_46: 234520501
+      Ally Archer Battler_47: 1664273881
+      Ally Archer Battler_48: 810689259
+      Ally Archer Battler_49: 1361515731
+      Ally Archer Battler_5: 1689590664
+      Ally Archer Battler_50: -980580330
+      Ally Archer Battler_51: -2125023190
+      Ally Archer Battler_52: -38155451
+      Ally Archer Battler_53: 1983725709
+      Ally Archer Battler_54: -1554585967
+      Ally Archer Battler_55: -1101960342
+      Ally Archer Battler_56: 804303034
+      Ally Archer Battler_57: -755597642
+      Ally Archer Battler_58: 1675390178
+      Ally Archer Battler_59: -1333836265
+      Ally Archer Battler_6: 2030667843
+      Ally Archer Battler_60: -2132258054
+      Ally Archer Battler_61: 626735133
+      Ally Archer Battler_62: 187994317
+      Ally Archer Battler_7: 400513471
+      Ally Archer Battler_8: 1490022820
+      Ally Archer Battler_9: 833634004
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,489 @@
+fileFormatVersion: 2
+guid: 337b1794775fbbf45be17042e8e1dc58
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 10
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: General SpearCrit_0
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 336
+        width: 73
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22420cf05da68004591c1e55865718b7
+      internalID: 448045142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General SpearCrit_1
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 335
+        width: 86
+        height: 61
+      alignment: 9
+      pivot: {x: 0.45678213, y: 0.034817554}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ec39b513bb619b4a8f429e6b8d0b982
+      internalID: 1539521210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General SpearCrit_3
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 332
+        width: 88
+        height: 72
+      alignment: 9
+      pivot: {x: 0.6387745, y: 0.11061774}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97f20853c886b2645b40aab120b498b7
+      internalID: 1473338786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General SpearCrit_4
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 335
+        width: 70
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e79350919c5a814c9d886d76ba2fd0e
+      internalID: 1159053921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General SpearCrit_5
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 334
+        width: 72
+        height: 48
+      alignment: 9
+      pivot: {x: 0.41150603, y: 0.09955597}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caed681775bca8e43bb53b6f91632adf
+      internalID: 704090933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General SpearCrit_9
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 221
+        width: 82
+        height: 96
+      alignment: 9
+      pivot: {x: 0.6295032, y: 0.038716156}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d01edad040ca359468fd792d4a57f0e0
+      internalID: -1276157401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General SpearCrit_12
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 222
+        width: 102
+        height: 95
+      alignment: 9
+      pivot: {x: 0.7706871, y: 0.08383644}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 458125dc7a4197c4d86614c727deffa1
+      internalID: 124193648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General SpearCrit_14
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 227
+        width: 96
+        height: 86
+      alignment: 9
+      pivot: {x: 0.75076514, y: 0.11371932}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 424ce2305aeab484ba28371ec38612f2
+      internalID: 126147234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General SpearCrit_15
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 219
+        width: 95
+        height: 100
+      alignment: 9
+      pivot: {x: 0.67025626, y: 0.03009201}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24b0b7770a269464a97f2b76378803c5
+      internalID: 1735936891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General SpearCrit_17
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 111
+        width: 90
+        height: 75
+      alignment: 9
+      pivot: {x: 0.26438564, y: 0.37858072}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86f1143b3aaefbe498660210799de594
+      internalID: 355627321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General SpearCrit_20
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 107
+        width: 83
+        height: 94
+      alignment: 9
+      pivot: {x: 0.3441107, y: 0.26382366}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b193552653023d243b80d301396bb86b
+      internalID: -1313369330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General SpearCrit_22
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 118
+        width: 96
+        height: 86
+      alignment: 9
+      pivot: {x: 0.7508395, y: 0.12537633}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e8521b8ce110574f87065170cff6055
+      internalID: -148718630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General SpearCrit_24
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 110
+        width: 70
+        height: 85
+      alignment: 9
+      pivot: {x: 0.42811802, y: 0.28330114}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c56ebf3583991ac4e95638408069547d
+      internalID: -485263014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General SpearCrit_26
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 14
+        width: 87
+        height: 78
+      alignment: 9
+      pivot: {x: 0.33742952, y: 0.055186883}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99b226d5fe51ddd42ad2ece1fe95737b
+      internalID: 1418446063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General SpearCrit_28
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 21
+        width: 85
+        height: 50
+      alignment: 9
+      pivot: {x: 0.43127155, y: 0.20907979}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1061e731bb902145b7c0cd2125ea4b4
+      internalID: -706569539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General SpearCrit_29
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 18
+        width: 99
+        height: 56
+      alignment: 9
+      pivot: {x: 0.7391441, y: 0.131773}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40646ea0666cba64d93a5eaf62d5d4b1
+      internalID: 1016643821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      General SpearCrit_0: 448045142
+      General SpearCrit_1: 1539521210
+      General SpearCrit_10: 629311871
+      General SpearCrit_11: -1302751703
+      General SpearCrit_12: 124193648
+      General SpearCrit_13: -1471334598
+      General SpearCrit_14: 126147234
+      General SpearCrit_15: 1735936891
+      General SpearCrit_16: 895038086
+      General SpearCrit_17: 355627321
+      General SpearCrit_18: 995085117
+      General SpearCrit_19: 487313646
+      General SpearCrit_2: 639578990
+      General SpearCrit_20: -1313369330
+      General SpearCrit_21: 101262105
+      General SpearCrit_22: -148718630
+      General SpearCrit_23: -1299476253
+      General SpearCrit_24: -485263014
+      General SpearCrit_25: -2079262215
+      General SpearCrit_26: 1418446063
+      General SpearCrit_27: -1998638258
+      General SpearCrit_28: -706569539
+      General SpearCrit_29: 1016643821
+      General SpearCrit_3: 1473338786
+      General SpearCrit_4: 1159053921
+      General SpearCrit_5: 704090933
+      General SpearCrit_6: -755126056
+      General SpearCrit_7: -108075225
+      General SpearCrit_8: -330315507
+      General SpearCrit_9: -1276157401
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1537 @@
+fileFormatVersion: 2
+guid: 02f9747b65340f748994c36b84b796c0
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 10
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mercenary Crit_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 656
+        width: 29
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 353ab6848dcfadb499a11eb8ba1e68b6
+      internalID: 1663466713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mercenary Crit_1
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 656
+        width: 26
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62d9482db0945c24383a38805d87c547
+      internalID: 364593647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mercenary Crit_2
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 656
+        width: 26
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74c85219da1755845b9f5b23cad5c7f5
+      internalID: -384259549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mercenary Crit_3
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 656
+        width: 26
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 967f716208f1b9e409b217fc0473a192
+      internalID: -1434720883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mercenary Crit_4
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 656
+        width: 26
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee2a016b4c53977409467d92a9f37aa2
+      internalID: 1197343592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mercenary Crit_5
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 656
+        width: 26
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c9831d9ba78a91438c3777c77c8e32a
+      internalID: -2116911897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mercenary Crit_6
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 656
+        width: 26
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ebf55816e14bed429f91bd8705ff317
+      internalID: 1989978356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mercenary Crit_7
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 656
+        width: 26
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d1111e1cb7e0674db795f69c388e846
+      internalID: 1168285848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mercenary Crit_8
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 656
+        width: 25
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ef673f029e526f4f93416f831ddf66b
+      internalID: 1526223682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mercenary Crit_9
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 656
+        width: 32
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9b23b7540c7b4f4ca8c58ff2e954e58
+      internalID: 1707239644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mercenary Crit_10
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 656
+        width: 34
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 392329efd7747354aa43fe5d7f69288c
+      internalID: 1596913279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mercenary Crit_11
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 656
+        width: 24
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4bf3d36aef75194b904cf4c6e23949f
+      internalID: -1860370041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mercenary Crit_12
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 656
+        width: 22
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1103b5f7aa59b0142afb2f41593ab286
+      internalID: 1709206656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mercenary Crit_22
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 518
+        width: 26
+        height: 92
+      alignment: 9
+      pivot: {x: 0.56821954, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 256d04ec9b8574d4ea0fa1ceb40e94c4
+      internalID: -14537138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mercenary Crit_23
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 518
+        width: 27
+        height: 97
+      alignment: 9
+      pivot: {x: 0.58446246, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 889446e1a987686448d8e572966eaf42
+      internalID: -128178017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mercenary Crit_24
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 518
+        width: 36
+        height: 92
+      alignment: 9
+      pivot: {x: 0.7111558, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2212848eb563da4ca59c89fde5bad2a
+      internalID: -243060144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mercenary Crit_25
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 518
+        width: 27
+        height: 106
+      alignment: 9
+      pivot: {x: 0.59478706, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ccd64f2e11b0554e8216a524809bd65
+      internalID: 865858785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mercenary Crit_26
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 518
+        width: 28
+        height: 110
+      alignment: 9
+      pivot: {x: 0.61363983, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 887ec0f9e1820f849ab52525e23c5230
+      internalID: 1569934661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mercenary Crit_27
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 518
+        width: 39
+        height: 107
+      alignment: 9
+      pivot: {x: 0.7305595, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec27e02129f700e46bbbba0b14763139
+      internalID: -2122076165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mercenary Crit_28
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 518
+        width: 34
+        height: 124
+      alignment: 9
+      pivot: {x: 0.68399584, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98ec134d32e014648b9a9ca19f2aa17a
+      internalID: -1697393065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mercenary Crit_29
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 518
+        width: 39
+        height: 128
+      alignment: 9
+      pivot: {x: 0.72283155, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73fe9ff641b9b744c866b6e32910d244
+      internalID: 590849089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mercenary Crit_30
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 518
+        width: 25
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1754311e3fd54a648bdfb48c54c99ad4
+      internalID: 1806560307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mercenary Crit_31
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 518
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77f92ad2204c9924995a407156b28cac
+      internalID: -377430887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mercenary Crit_32
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 517
+        width: 41
+        height: 133
+      alignment: 9
+      pivot: {x: 0.7246883, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 414495faf37edf547a4b7472b1f93cb5
+      internalID: -434683165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mercenary Crit_42
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 365
+        width: 45
+        height: 132
+      alignment: 9
+      pivot: {x: 0.69624466, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d46663e6f5ce8a4e8a5e578a5f5db9a
+      internalID: -440119585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mercenary Crit_43
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 365
+        width: 36
+        height: 121
+      alignment: 9
+      pivot: {x: 0.6356256, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 629f2bafeb46ea445a3c003686c153d3
+      internalID: -287445799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mercenary Crit_44
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 365
+        width: 24
+        height: 134
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e363dc462b9b566489ba0a9661323117
+      internalID: -1728030342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mercenary Crit_45
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 365
+        width: 35
+        height: 129
+      alignment: 9
+      pivot: {x: 0.7790017, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e30e7e98c3faf3c43aacdb84743101e8
+      internalID: -922381830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mercenary Crit_46
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 365
+        width: 38
+        height: 126
+      alignment: 9
+      pivot: {x: 0.7952399, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af75762cb4615234298c2d3d32425b8c
+      internalID: 592077288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mercenary Crit_47
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 365
+        width: 34
+        height: 125
+      alignment: 9
+      pivot: {x: 0.77408195, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca90822ecb470ec469ec3d5f0b654c6d
+      internalID: -1376263378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mercenary Crit_48
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 365
+        width: 35
+        height: 125
+      alignment: 9
+      pivot: {x: 0.69322073, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a87ee656bd1f1f945b9a38b0a291cabd
+      internalID: 1246369370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mercenary Crit_49
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 365
+        width: 20
+        height: 136
+      alignment: 9
+      pivot: {x: 0.5924469, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fa4d6524101ab449a9d94009213b8d8
+      internalID: -1591676223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mercenary Crit_50
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 368
+        width: 37
+        height: 134
+      alignment: 9
+      pivot: {x: 0.6999094, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7442347ff0e0c14383b4504d0a16d02
+      internalID: -238285026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mercenary Crit_59
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 223
+        width: 39
+        height: 113
+      alignment: 9
+      pivot: {x: 0.71772647, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7f0355f89c6b1141b510a4fac2154b9
+      internalID: 1008950152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mercenary Crit_61
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 223
+        width: 35
+        height: 119
+      alignment: 9
+      pivot: {x: 0.6518422, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdfedb2aa3de2854a82f0e6f2bce35e1
+      internalID: -1642656419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mercenary Crit_62
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 223
+        width: 27
+        height: 120
+      alignment: 9
+      pivot: {x: 0.66463953, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57b2b567f945f5b4bbe82b37cb2bd561
+      internalID: -1722376715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mercenary Crit_63
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 223
+        width: 31
+        height: 116
+      alignment: 9
+      pivot: {x: 0.68275404, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07e6b31be875ab64fb2d8bc5a1bbd60e
+      internalID: 1156288607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mercenary Crit_64
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 223
+        width: 33
+        height: 103
+      alignment: 9
+      pivot: {x: 0.6871509, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a8a4e9b2942a3240ac0801cfd936a40
+      internalID: 636824791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mercenary Crit_65
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 223
+        width: 34
+        height: 101
+      alignment: 9
+      pivot: {x: 0.5489053, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e546997c3d4b4449ae3d36342744bc9
+      internalID: -1135870199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mercenary Crit_67
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 223
+        width: 34
+        height: 101
+      alignment: 9
+      pivot: {x: 0.5489053, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 964242969f6f4cd469c7d33761992c2a
+      internalID: -1416116556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mercenary Crit_68
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 223
+        width: 31
+        height: 104
+      alignment: 9
+      pivot: {x: 0.5306505, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a71e6c2d55911f43b7493da33197025
+      internalID: -1842426486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mercenary Crit_69
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 223
+        width: 43
+        height: 86
+      alignment: 9
+      pivot: {x: 0.65467584, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17246464b8fd27348b33fc9f72d13eac
+      internalID: 1382056937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mercenary Crit_70
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 223
+        width: 31
+        height: 85
+      alignment: 9
+      pivot: {x: 0.6302628, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 648272e0ceed3f44288942afa7d6f37b
+      internalID: 1982794338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mercenary Crit_81
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 108
+        width: 41
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32598d2da7d4078448d4bc4d6efad0b4
+      internalID: -587408865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mercenary Crit_82
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 108
+        width: 46
+        height: 86
+      alignment: 9
+      pivot: {x: 0.2584124, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93b693f2d0192184fa9ee2a997fd0495
+      internalID: 1507711810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mercenary Crit_83
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 108
+        width: 33
+        height: 97
+      alignment: 9
+      pivot: {x: 0.36628675, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ccc24bb804db4c4fa138a795d04e84a
+      internalID: 1682634413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mercenary Crit_84
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 108
+        width: 32
+        height: 92
+      alignment: 9
+      pivot: {x: 0.3825364, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c10dab5ca907d364499d67c54c182ba8
+      internalID: -332269018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mercenary Crit_85
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 108
+        width: 52
+        height: 79
+      alignment: 9
+      pivot: {x: 0.7847736, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a71a9112985fa345a902aa1113ea9cb
+      internalID: 538383631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mercenary Crit_87
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 108
+        width: 51
+        height: 54
+      alignment: 9
+      pivot: {x: 0.7216312, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1f8946e025cff74aad42da3152771c9
+      internalID: 1777675220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mercenary Crit_92
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 108
+        width: 60
+        height: 31
+      alignment: 9
+      pivot: {x: 0.7723353, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d6262572b9a14446b46bf304ca24312
+      internalID: 1759100883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mercenary Crit_93
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 108
+        width: 58
+        height: 31
+      alignment: 9
+      pivot: {x: 0.74944544, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76b1d20937b7a284fa8686f93c18b0e6
+      internalID: 1813243288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mercenary Crit_94
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 16
+        width: 27
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 270efbb3321697a4ab48c35e7f387369
+      internalID: -2095599788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mercenary Crit_95
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 7
+        width: 31
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da4e44cf09f019c4aa1aa0256dd8b8bb
+      internalID: -1312637131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mercenary Crit_96
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 7
+        width: 29
+        height: 83
+      alignment: 9
+      pivot: {x: 0.33055377, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11c77f9b88de09f43a85fd4c00809d30
+      internalID: -720860086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mercenary Crit_97
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 7
+        width: 32
+        height: 72
+      alignment: 9
+      pivot: {x: 0.4375968, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fbbb784f4a47a14caadc4edea1f05d5
+      internalID: -630728183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mercenary Crit_98
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 7
+        width: 32
+        height: 74
+      alignment: 9
+      pivot: {x: 0.45839787, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 333ee99c80025234095d4a678587c861
+      internalID: -757121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mercenary Crit_99
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 7
+        width: 29
+        height: 77
+      alignment: 9
+      pivot: {x: 0.6190338, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4707e3b031c77994d854dcf04fe20bcf
+      internalID: -1406200774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mercenary Crit_100
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 7
+        width: 25
+        height: 76
+      alignment: 9
+      pivot: {x: 0.34982422, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0242840c71f1d7c469fdae6ebb470850
+      internalID: 1497165442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mercenary Crit_101
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 7
+        width: 28
+        height: 72
+      alignment: 9
+      pivot: {x: 0.3801847, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa2bc2afd96249c4f94db5d95889e66e
+      internalID: -1795876064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mercenary Crit_102
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 7
+        width: 29
+        height: 66
+      alignment: 9
+      pivot: {x: 0.3994046, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edb55dcf781fd9f42ae3bbeb395c8823
+      internalID: -1097086928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mercenary Crit_103
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 7
+        width: 30
+        height: 61
+      alignment: 9
+      pivot: {x: 0.40275776, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dd4af43f94efda4995e6dd3132ff83b
+      internalID: -332757102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mercenary Crit_111
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 7
+        width: 32
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d1c7d2800c88a9468f586ed2db16b21
+      internalID: -1174156531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Mercenary Crit_0: 1663466713
+      Mercenary Crit_1: 364593647
+      Mercenary Crit_10: 1596913279
+      Mercenary Crit_100: 1497165442
+      Mercenary Crit_101: -1795876064
+      Mercenary Crit_102: -1097086928
+      Mercenary Crit_103: -332757102
+      Mercenary Crit_104: -1029261861
+      Mercenary Crit_105: -1051920658
+      Mercenary Crit_106: 1443159692
+      Mercenary Crit_107: -1743101367
+      Mercenary Crit_108: 1227839667
+      Mercenary Crit_109: -2142250222
+      Mercenary Crit_11: -1860370041
+      Mercenary Crit_110: -460256668
+      Mercenary Crit_111: -1174156531
+      Mercenary Crit_12: 1709206656
+      Mercenary Crit_13: 533608538
+      Mercenary Crit_14: -818077664
+      Mercenary Crit_15: 1970591910
+      Mercenary Crit_16: -1978798201
+      Mercenary Crit_17: 1329712354
+      Mercenary Crit_18: -854946010
+      Mercenary Crit_19: 50867008
+      Mercenary Crit_2: -384259549
+      Mercenary Crit_20: 389886105
+      Mercenary Crit_21: -907775989
+      Mercenary Crit_22: -14537138
+      Mercenary Crit_23: -128178017
+      Mercenary Crit_24: -243060144
+      Mercenary Crit_25: 865858785
+      Mercenary Crit_26: 1569934661
+      Mercenary Crit_27: -2122076165
+      Mercenary Crit_28: -1697393065
+      Mercenary Crit_29: 590849089
+      Mercenary Crit_3: -1434720883
+      Mercenary Crit_30: 1806560307
+      Mercenary Crit_31: -377430887
+      Mercenary Crit_32: -434683165
+      Mercenary Crit_33: -2068880432
+      Mercenary Crit_34: 163667319
+      Mercenary Crit_35: -1611044105
+      Mercenary Crit_36: 1333818270
+      Mercenary Crit_37: 1782001927
+      Mercenary Crit_38: 316169008
+      Mercenary Crit_39: -1823001297
+      Mercenary Crit_4: 1197343592
+      Mercenary Crit_40: -733787018
+      Mercenary Crit_41: 2106748879
+      Mercenary Crit_42: -440119585
+      Mercenary Crit_43: -287445799
+      Mercenary Crit_44: -1728030342
+      Mercenary Crit_45: -922381830
+      Mercenary Crit_46: 592077288
+      Mercenary Crit_47: -1376263378
+      Mercenary Crit_48: 1246369370
+      Mercenary Crit_49: -1591676223
+      Mercenary Crit_5: -2116911897
+      Mercenary Crit_50: -238285026
+      Mercenary Crit_51: -2101674660
+      Mercenary Crit_52: 355953525
+      Mercenary Crit_53: -123992383
+      Mercenary Crit_54: -348614186
+      Mercenary Crit_55: -825049152
+      Mercenary Crit_56: 853354612
+      Mercenary Crit_57: 1521260380
+      Mercenary Crit_58: -437391394
+      Mercenary Crit_59: 1008950152
+      Mercenary Crit_6: 1989978356
+      Mercenary Crit_60: 343133022
+      Mercenary Crit_61: -1642656419
+      Mercenary Crit_62: -1722376715
+      Mercenary Crit_63: 1156288607
+      Mercenary Crit_64: 636824791
+      Mercenary Crit_65: -1135870199
+      Mercenary Crit_66: -1750556875
+      Mercenary Crit_67: -1416116556
+      Mercenary Crit_68: -1842426486
+      Mercenary Crit_69: 1382056937
+      Mercenary Crit_7: 1168285848
+      Mercenary Crit_70: 1982794338
+      Mercenary Crit_71: 1758359299
+      Mercenary Crit_72: 168775793
+      Mercenary Crit_73: 179718133
+      Mercenary Crit_74: 1729441391
+      Mercenary Crit_75: -1812670814
+      Mercenary Crit_76: 385751454
+      Mercenary Crit_77: -2014185353
+      Mercenary Crit_78: 1312595594
+      Mercenary Crit_79: 703714820
+      Mercenary Crit_8: 1526223682
+      Mercenary Crit_80: 2141202724
+      Mercenary Crit_81: -587408865
+      Mercenary Crit_82: 1507711810
+      Mercenary Crit_83: 1682634413
+      Mercenary Crit_84: -332269018
+      Mercenary Crit_85: 538383631
+      Mercenary Crit_86: -1151160630
+      Mercenary Crit_87: 1777675220
+      Mercenary Crit_88: 1937675927
+      Mercenary Crit_89: -389444055
+      Mercenary Crit_9: 1707239644
+      Mercenary Crit_90: 962245329
+      Mercenary Crit_91: -1470418650
+      Mercenary Crit_92: 1759100883
+      Mercenary Crit_93: 1813243288
+      Mercenary Crit_94: -2095599788
+      Mercenary Crit_95: -1312637131
+      Mercenary Crit_96: -720860086
+      Mercenary Crit_97: -630728183
+      Mercenary Crit_98: -757121
+      Mercenary Crit_99: -1406200774
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

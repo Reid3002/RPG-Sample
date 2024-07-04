@@ -1,0 +1,1509 @@
+fileFormatVersion: 2
+guid: 22b0590f8be18e24d8c37b342fe89bda
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 10
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Enemy Archer Battler_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 327
+        width: 7
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 687197d450af3f94088767a9e038cf69
+      internalID: -238233715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy Archer Battler_1
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 327
+        width: 6
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12cbc9a0f92bf934dadcc84b62ec10c8
+      internalID: 1942748381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy Archer Battler_2
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 327
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f52b0dde85938634cbc9f6a69b1f0691
+      internalID: -1395340498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy Archer Battler_3
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 327
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7982f0d3714e51f4da8f098c199337a4
+      internalID: -285664964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy Archer Battler_4
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 327
+        width: 4
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 172c9027919860241971ee0a0e3edbd9
+      internalID: -2053510943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy Archer Battler_5
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 327
+        width: 9
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ba3c31cadf1abb45ae9521296c1a003
+      internalID: 451644248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy Archer Battler_6
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 327
+        width: 4
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98876d4b393f1b04fab4d88fe3d68a47
+      internalID: 721707187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy Archer Battler_7
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 327
+        width: 5
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f5af9ca255f4634c8aa1233f5d3ea72
+      internalID: -1853291844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy Archer Battler_8
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 327
+        width: 6
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36e1372932d5fda409648f05b6a5969e
+      internalID: -723849313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy Archer Battler_9
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 327
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d87eee4bcee91954db3a11adad941f28
+      internalID: -1567334058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy Archer Battler_10
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 327
+        width: 9
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 205644a603f6f66428d4dcd681a2f705
+      internalID: 300358456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy Archer Battler_11
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 287
+        width: 25
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5807708, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39dad720b8ec0d84b970153b92bb18e6
+      internalID: -1229300414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy Archer Battler_12
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 287
+        width: 29
+        height: 35
+      alignment: 9
+      pivot: {x: 0.46131685, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26ce388f6263b1441ab5adc187b0025a
+      internalID: 2014505169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy Archer Battler_13
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 287
+        width: 27
+        height: 35
+      alignment: 9
+      pivot: {x: 0.4230652, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d60c01951e59c81409a5d2d6ec6e4572
+      internalID: 277265334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy Archer Battler_14
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 288
+        width: 38
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5826601, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4878cc54b8eb98745bd7cd202f737696
+      internalID: -1701797956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy Archer Battler_15
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 289
+        width: 39
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5977994, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60d3313b51c22dd428ee9e7888bd0af8
+      internalID: -760453135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy Archer Battler_16
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 288
+        width: 38
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5944688, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8a062ea704272342ad08a46c276867c
+      internalID: 553133183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy Archer Battler_17
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 288
+        width: 38
+        height: 35
+      alignment: 9
+      pivot: {x: 0.60627747, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b077f7c651bc7ab418d2c815a5b9d9e6
+      internalID: 1834612333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy Archer Battler_18
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 289
+        width: 38
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5944688, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83eeb15b792c6974eb2253dc6a0d4ac6
+      internalID: 1793259583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy Archer Battler_19
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 290
+        width: 38
+        height: 35
+      alignment: 9
+      pivot: {x: 0.6180854, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff047a27fff037d48b573545de80755f
+      internalID: -897163591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy Archer Battler_20
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 290
+        width: 34
+        height: 35
+      alignment: 9
+      pivot: {x: 0.6715725, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23a7b2398049c5849a9d1b760d98db21
+      internalID: 1617212871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy Archer Battler_21
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 235
+        width: 30
+        height: 34
+      alignment: 9
+      pivot: {x: 0.6346181, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eda363de1df8cd44aa5c0204960bd3c
+      internalID: 1035358915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy Archer Battler_22
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 234
+        width: 29
+        height: 39
+      alignment: 9
+      pivot: {x: 0.6392599, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2e2ed241c451894eb57fda3480ea094
+      internalID: 326117781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy Archer Battler_23
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 235
+        width: 28
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5961557, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f51836c19ee61374ab6504f849f9e6b0
+      internalID: -524916292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy Archer Battler_24
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 236
+        width: 40
+        height: 40
+      alignment: 9
+      pivot: {x: 0.72105104, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb987103fcd0b63498ebe2731aa75ae9
+      internalID: -986903027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy Archer Battler_25
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 260
+        width: 19
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cbfd1c938054a64a9f12398a30af8c1
+      internalID: 563857255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy Archer Battler_26
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 237
+        width: 30
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5373942, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2448408c405e7b46a61dc9ea0e16ff4
+      internalID: 567392020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy Archer Battler_27
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 239
+        width: 28
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5721174, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7058f9a001c74b14dbd6a1b4fb5e597e
+      internalID: 471113077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy Archer Battler_28
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 203
+        width: 10
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5de85c6d34af681469077c747a8a28d9
+      internalID: 2108420587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy Archer Battler_29
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 203
+        width: 6
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 975afda4288de0b4fa3f31338024ee89
+      internalID: 294153676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy Archer Battler_30
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 203
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 969ff65bf31e8114d97d9dd1594e0db9
+      internalID: -1591057562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy Archer Battler_31
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 203
+        width: 7
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24d7cb4673c08c348a2915e71018b50d
+      internalID: -486038868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy Archer Battler_32
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 203
+        width: 6
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71b30d856f7056a43a045d9b9f76564a
+      internalID: 540445739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy Archer Battler_33
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 203
+        width: 4
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa871e42b42b81644976a80188baa105
+      internalID: -59944348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy Archer Battler_34
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 203
+        width: 9
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 338eaa09e67193f418f609c1c8149059
+      internalID: -1700087208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy Archer Battler_35
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 203
+        width: 4
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07a5b6de2ab06524a9e26911d48cd9f3
+      internalID: -1690746115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy Archer Battler_36
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 203
+        width: 5
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c81942d8e26838343848742e1a56b593
+      internalID: -813689004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy Archer Battler_37
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 203
+        width: 6
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f67ef64fd1c736144ace2794edaecd2f
+      internalID: 1887267396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy Archer Battler_38
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 203
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89c6949e5e5492c4d8fbbc2302ac6409
+      internalID: -421412348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy Archer Battler_39
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 203
+        width: 9
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f6a0e9830d2c0941bc80019ae0c42c7
+      internalID: -48886936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy Archer Battler_40
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 200
+        width: 6
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04730178e4c9eee4088ff2e9f4f39a4a
+      internalID: 1109275121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy Archer Battler_41
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 200
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae9cc0d44ee9727458f757320c01d942
+      internalID: 1086463759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy Archer Battler_42
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 200
+        width: 5
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0213e8ac76341549ad89d88941a9c5d
+      internalID: 46991697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy Archer Battler_43
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 198
+        width: 5
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c52940a82e01c6646a0512a85765c038
+      internalID: 1913920101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy Archer Battler_44
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 200
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfebf92f87e2d3c40b0ae5ef1c4eb522
+      internalID: 208604856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy Archer Battler_45
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 155
+        width: 25
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40070f330007c7c42b0f5b2b2e0d4fe9
+      internalID: 1630152956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy Archer Battler_46
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 155
+        width: 24
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a597387f279a3a147851e60dd4b6921b
+      internalID: 108231798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy Archer Battler_47
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 155
+        width: 24
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fe59775c9f9cf543bb54b6d70f2a7c5
+      internalID: 197001305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy Archer Battler_48
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 154
+        width: 24
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 901457bd4d35dc54a83f75bd7e78f5a4
+      internalID: 1341302300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy Archer Battler_49
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 154
+        width: 31
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a588801b940c9c419acdfbfd64a2202
+      internalID: 1582012513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy Archer Battler_50
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 153
+        width: 39
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6499c364052d1b40b9d1896635b8e94
+      internalID: 1715514558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy Archer Battler_51
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 154
+        width: 33
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fd950ed67f4c6243be33dff1559d5d8
+      internalID: -399749787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy Archer Battler_52
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 104
+        width: 38
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5581656, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1680f44e502eca54fa5ab0673d1af345
+      internalID: -970829848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy Archer Battler_53
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 105
+        width: 40
+        height: 38
+      alignment: 9
+      pivot: {x: 0.6105148, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa8ae00914f839049aadd2713a4303d9
+      internalID: 717572981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy Archer Battler_54
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 106
+        width: 40
+        height: 36
+      alignment: 9
+      pivot: {x: 0.6105148, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cd3add65a4f4e74a808ede1dbc4d404
+      internalID: 968053782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy Archer Battler_55
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 106
+        width: 37
+        height: 35
+      alignment: 9
+      pivot: {x: 0.58214015, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6005309277cd1f84380abe817e202cd6
+      internalID: 2129595209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy Archer Battler_56
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 59
+        width: 30
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4d258eec9fb42b4e95b516cc1c965e1
+      internalID: 627168777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy Archer Battler_57
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 58
+        width: 29
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 952d3e14ee3daa946a9ef0c44b82238e
+      internalID: 1257309441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy Archer Battler_58
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 58
+        width: 28
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6253abb15b57f5449cd977f0199c39e
+      internalID: -1742614985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy Archer Battler_59
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 79
+        width: 19
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 043efaa9d67adbf45ba98baf2d84d324
+      internalID: 1975430302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy Archer Battler_60
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 56
+        width: 30
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95e5cdbf8d9b03a4e973e272e64437ca
+      internalID: -1118082027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy Archer Battler_61
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 13
+        width: 28
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb77500ea9a711e428fdef7386f691b9
+      internalID: 522509406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy Archer Battler_62
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 13
+        width: 25
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 676d10966c59dcb44a22477f816bb206
+      internalID: 474135380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Enemy Archer Battler_0: -238233715
+      Enemy Archer Battler_1: 1942748381
+      Enemy Archer Battler_10: 300358456
+      Enemy Archer Battler_11: -1229300414
+      Enemy Archer Battler_12: 2014505169
+      Enemy Archer Battler_13: 277265334
+      Enemy Archer Battler_14: -1701797956
+      Enemy Archer Battler_15: -760453135
+      Enemy Archer Battler_16: 553133183
+      Enemy Archer Battler_17: 1834612333
+      Enemy Archer Battler_18: 1793259583
+      Enemy Archer Battler_19: -897163591
+      Enemy Archer Battler_2: -1395340498
+      Enemy Archer Battler_20: 1617212871
+      Enemy Archer Battler_21: 1035358915
+      Enemy Archer Battler_22: 326117781
+      Enemy Archer Battler_23: -524916292
+      Enemy Archer Battler_24: -986903027
+      Enemy Archer Battler_25: 563857255
+      Enemy Archer Battler_26: 567392020
+      Enemy Archer Battler_27: 471113077
+      Enemy Archer Battler_28: 2108420587
+      Enemy Archer Battler_29: 294153676
+      Enemy Archer Battler_3: -285664964
+      Enemy Archer Battler_30: -1591057562
+      Enemy Archer Battler_31: -486038868
+      Enemy Archer Battler_32: 540445739
+      Enemy Archer Battler_33: -59944348
+      Enemy Archer Battler_34: -1700087208
+      Enemy Archer Battler_35: -1690746115
+      Enemy Archer Battler_36: -813689004
+      Enemy Archer Battler_37: 1887267396
+      Enemy Archer Battler_38: -421412348
+      Enemy Archer Battler_39: -48886936
+      Enemy Archer Battler_4: -2053510943
+      Enemy Archer Battler_40: 1109275121
+      Enemy Archer Battler_41: 1086463759
+      Enemy Archer Battler_42: 46991697
+      Enemy Archer Battler_43: 1913920101
+      Enemy Archer Battler_44: 208604856
+      Enemy Archer Battler_45: 1630152956
+      Enemy Archer Battler_46: 108231798
+      Enemy Archer Battler_47: 197001305
+      Enemy Archer Battler_48: 1341302300
+      Enemy Archer Battler_49: 1582012513
+      Enemy Archer Battler_5: 451644248
+      Enemy Archer Battler_50: 1715514558
+      Enemy Archer Battler_51: -399749787
+      Enemy Archer Battler_52: -970829848
+      Enemy Archer Battler_53: 717572981
+      Enemy Archer Battler_54: 968053782
+      Enemy Archer Battler_55: 2129595209
+      Enemy Archer Battler_56: 627168777
+      Enemy Archer Battler_57: 1257309441
+      Enemy Archer Battler_58: -1742614985
+      Enemy Archer Battler_59: 1975430302
+      Enemy Archer Battler_6: 721707187
+      Enemy Archer Battler_60: -1118082027
+      Enemy Archer Battler_61: 522509406
+      Enemy Archer Battler_62: 474135380
+      Enemy Archer Battler_7: -1853291844
+      Enemy Archer Battler_8: -723849313
+      Enemy Archer Battler_9: -1567334058
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

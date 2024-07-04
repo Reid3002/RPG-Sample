@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 29a16e56240b1014c8a521d46fd5be0a, type: 3}
+  m_Name: BattleAxe
+  m_EditorClassIdentifier: 
+  p_name: Battle Axe
+  p_sprite: {fileID: 0}
+  p_id: 
+  ItemType: 1
+  description: A weapon designed to inflict heavy damge on foes
+  atk: 25
+  def: 5
+  magic: 0
+  speed: 3
+  critR: 10
+  EquipmentSlot: 0
+  WeaponType: 2
+  ArmorType: 0

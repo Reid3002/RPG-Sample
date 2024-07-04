@@ -1,0 +1,2449 @@
+fileFormatVersion: 2
+guid: f4ed9bd82c9eaaa47ba4fb06210376c9
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 15
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Assasin SpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 683
+        width: 7
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e95838108832fa74f9ca88f296ae9752
+      internalID: 1014741372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assasin SpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 683
+        width: 6
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41bc63dd96b76d24a9861cc12fb08a78
+      internalID: 1958381061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assasin SpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 683
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d800b67f53747349b16edea7d92fc19
+      internalID: -1673000071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assasin SpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 683
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0e28d3b906df9449892d8cf6f551cbf
+      internalID: -1085621831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assasin SpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 683
+        width: 4
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 958661db1acf0a748bccce117e61baff
+      internalID: -636275941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assasin SpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 683
+        width: 9
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f11edaf8b450644db897505a05a63b2
+      internalID: -1602713844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assasin SpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 683
+        width: 4
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 720b009160a398f4a8bd368b101b54fc
+      internalID: -642906698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assasin SpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 683
+        width: 5
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b69c7d0a3b8903b4994da0ca0a4f98e9
+      internalID: -1259328879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assasin SpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 683
+        width: 6
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df6f0c5c919b07846bab3bd74f0d2c35
+      internalID: -1128306294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assasin SpriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 683
+        width: 9
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21c18499d53df8e488953985f51a6ade
+      internalID: 87233720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assasin SpriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 683
+        width: 9
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 808e09f62f3f14d428c706dffc8f8fea
+      internalID: 658044383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assasin SpriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 683
+        width: 5
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1ff9253501bd8a4284fec7e18c5a5b7
+      internalID: -919372192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assasin SpriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 632
+        width: 24
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db04fca1178e27c4293b8a5685135cb6
+      internalID: 1706182218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assasin SpriteSheet_13
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 633
+        width: 22
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2faebd43754b3314a93d0b78f6826b5b
+      internalID: 2132799464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assasin SpriteSheet_14
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 634
+        width: 23
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39545e4dd595ac248976b0d241d45dc2
+      internalID: 1131690470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assasin SpriteSheet_15
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 635
+        width: 24
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76cbffd20744e294fa8937e570586056
+      internalID: -904294169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assasin SpriteSheet_16
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 639
+        width: 39
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31be29e6f078a3e428035e3e6026b411
+      internalID: -369069612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assasin SpriteSheet_17
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 640
+        width: 39
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2001e7e0fa2cc940b2cc6e3139fba54
+      internalID: 1405738038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assasin SpriteSheet_18
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 582
+        width: 29
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cef2bb14c176ef343b45f22537970d71
+      internalID: 251586628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assasin SpriteSheet_19
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 583
+        width: 26
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baf0737e17d038340b7c43e2cfc8cb49
+      internalID: -1776912638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assasin SpriteSheet_20
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 584
+        width: 27
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92297694d8fbbaa48992113f2c24f153
+      internalID: 847059170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assasin SpriteSheet_21
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 585
+        width: 34
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08630a8e01a8b024180862b812f9fcac
+      internalID: -942978500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assasin SpriteSheet_22
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 587
+        width: 34
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54cc2a3205169214ea9ec463f8cc9319
+      internalID: 1275241880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assasin SpriteSheet_23
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 588
+        width: 34
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5be5e60ff05ac86499dd3bdb0a8c9645
+      internalID: 757002515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assasin SpriteSheet_30
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 534
+        width: 30
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20dab1dcf91599a4cb6f3c24a9c29a76
+      internalID: 1012443587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assasin SpriteSheet_31
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 536
+        width: 27
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52b70044c0bfa164b85a4c14e1493ddf
+      internalID: 1411788420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assasin SpriteSheet_32
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 537
+        width: 28
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd7110a6efe85b343b256fe72621defa
+      internalID: 282156112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assasin SpriteSheet_33
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 537
+        width: 31
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d4522d5cb2de88499c47e97ef12705a
+      internalID: -1498045319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assasin SpriteSheet_34
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 537
+        width: 26
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e04f47847462c6c46b56cf8a70adea59
+      internalID: -1826062328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assasin SpriteSheet_35
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 536
+        width: 30
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b89a3a2dcbc3e6c438c354cc679a06a5
+      internalID: 2119976434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assasin SpriteSheet_42
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 495
+        width: 30
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ed2eec2d9d48c644b1a2d175c4e73f9
+      internalID: -2089492660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assasin SpriteSheet_43
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 498
+        width: 29
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96eccc8384bcc30439fe0c3d7659eb7a
+      internalID: 1829011077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assasin SpriteSheet_44
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 501
+        width: 30
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8b40f22464c74e4496af38506f252cc
+      internalID: -996047236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assasin SpriteSheet_45
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 502
+        width: 31
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd75dd2192991ef4cad41a92c9f514f6
+      internalID: 1886729242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assasin SpriteSheet_46
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 503
+        width: 31
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 994cc3f836185364ca2fc22c3ad750e2
+      internalID: 1070814201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assasin SpriteSheet_47
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 503
+        width: 28
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ae3cf8fb33a281469a452faa6d051cb
+      internalID: 137120693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assasin SpriteSheet_48
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 455
+        width: 30
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49bbd2c0550726f43b85b1dea291d879
+      internalID: -1397930756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assasin SpriteSheet_49
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 454
+        width: 38
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 523dd1830ba5b3946a7915fc86ca3a44
+      internalID: 1646621335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assasin SpriteSheet_50
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 457
+        width: 26
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06fd0988894f21a4c9d439e4b7ba9345
+      internalID: -623692849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assasin SpriteSheet_51
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 458
+        width: 28
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c05b461067f233c4dbfd9c297cf52cdc
+      internalID: 2024548244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assasin SpriteSheet_52
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 459
+        width: 28
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f65fcf9826d7e6409dbbece7859dc66
+      internalID: 1640597083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assasin SpriteSheet_53
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 458
+        width: 23
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 804d984a55c1e6d4e94195a7d636def3
+      internalID: 264405942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assasin SpriteSheet_54
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 413
+        width: 31
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20742a8d19a0ca14ba1c69e5ca2d0f04
+      internalID: 1733909368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assasin SpriteSheet_55
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 414
+        width: 29
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2884783e235719c40982d73cb5b7c262
+      internalID: -1686073757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assasin SpriteSheet_56
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 415
+        width: 26
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 612aa31928f65104e94ec76d439d37d5
+      internalID: -1031703042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assasin SpriteSheet_57
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 415
+        width: 24
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e46909ac7fc13da438f1c531a3d7cc87
+      internalID: -1023968116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assasin SpriteSheet_58
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 415
+        width: 24
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c369c55cd10647a479796ddef14a2bc7
+      internalID: 83028829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assasin SpriteSheet_59
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 394
+        width: 10
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f41babcb93b589243927597f11be215d
+      internalID: -493102596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assasin SpriteSheet_60
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 394
+        width: 6
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5885479f59c61c43a8254b8badff1c6
+      internalID: 661139561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assasin SpriteSheet_61
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 394
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aa558c2ace753d4ab4c58d7c5d21934
+      internalID: -276880247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assasin SpriteSheet_62
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 394
+        width: 7
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b05d6a01ca28f2345a32e618a5aa24ba
+      internalID: 878190752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assasin SpriteSheet_63
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 394
+        width: 6
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b89f2c57bf62aa47ac3c0acd883ef4f
+      internalID: 1125174614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assasin SpriteSheet_64
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 394
+        width: 4
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 039e0f1dd980a8f43adf539d982bcad2
+      internalID: 270945963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assasin SpriteSheet_65
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 394
+        width: 15
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1a708f6c9320614a81214c7fcd7f74c
+      internalID: 1133247328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assasin SpriteSheet_66
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 394
+        width: 5
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26b44b6417351f144aff616c0b8d1f33
+      internalID: 228660511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assasin SpriteSheet_67
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 394
+        width: 6
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3985908114bebb49b7006f1add78bb6
+      internalID: 1111197072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assasin SpriteSheet_68
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 394
+        width: 9
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8ec7bae04cdcc24983e859b20f00e35
+      internalID: 469330019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assasin SpriteSheet_69
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 394
+        width: 9
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e7a09f8b252e9b4782c662e6a7d58fc
+      internalID: 654113934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assasin SpriteSheet_70
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 394
+        width: 5
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e986165d4be80848a67cae84abda79d
+      internalID: 1129932108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assasin SpriteSheet_71
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 349
+        width: 24
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 643da700cd3ae32468e491a3b2b7975c
+      internalID: -971080553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assasin SpriteSheet_72
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 350
+        width: 22
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0220c3af7cd5c234abb5f8ef3a4d9288
+      internalID: -365200594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assasin SpriteSheet_73
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 350
+        width: 24
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2b0678ea05470a47a305229f3f6a93a
+      internalID: -753138596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assasin SpriteSheet_74
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 350
+        width: 24
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4de5d739559715d418791908007b2edf
+      internalID: -351474260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assasin SpriteSheet_75
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 351
+        width: 24
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a9278cfb03b90a43822dde4b60e3f42
+      internalID: 1100271878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assasin SpriteSheet_76
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 352
+        width: 24
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2278323c6de022c4babce4d3faccc689
+      internalID: 2017889476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assasin SpriteSheet_77
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 351
+        width: 26
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eee03b25bb6f1f4a87e94407c6b7958
+      internalID: 1360569432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assasin SpriteSheet_78
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 306
+        width: 26
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b1e143256ef64f4b9cc7385803a8971
+      internalID: 2119450971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assasin SpriteSheet_79
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 305
+        width: 28
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dba6de6b260c7f942b71eaf6e277ce61
+      internalID: 865402119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assasin SpriteSheet_80
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 305
+        width: 28
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ede90209f391f6146a7a979aac1882a8
+      internalID: 565821549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assasin SpriteSheet_81
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 306
+        width: 28
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a728ce56c3fb494eae690e9864f2a5e
+      internalID: 192220837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assasin SpriteSheet_82
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 305
+        width: 28
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff2f3db29e0d40d489a40fcfc2dcafa8
+      internalID: 436494062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assasin SpriteSheet_83
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 304
+        width: 26
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2315f644332dffe4b90bef3b76e6f46e
+      internalID: -1291960575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assasin SpriteSheet_84
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 304
+        width: 25
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd2fd101c7aae7645b2b16437b50a794
+      internalID: -789637290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assasin SpriteSheet_85
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 248
+        width: 26
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e0006a3cb6e08a42ae4349d91e3c05d
+      internalID: 851295110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assasin SpriteSheet_86
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 250
+        width: 31
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31ff20e84e48f804685f9b4e5a9b9348
+      internalID: 797778072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assasin SpriteSheet_87
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 241
+        width: 47
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a9890cf19c811b4dae8553f32332dfe
+      internalID: -327563046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assasin SpriteSheet_88
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 247
+        width: 30
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9764de80714ee384d94c25955047c633
+      internalID: -1530569938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assasin SpriteSheet_89
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 247
+        width: 30
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2a0f1d52f1f2064191525bcb0856970
+      internalID: -750173923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assasin SpriteSheet_91
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 154
+        width: 32
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81556e2ae02285344879cbeee805e0af
+      internalID: -670135940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assasin SpriteSheet_92
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 189
+        width: 30
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a578f0dcf1bdd57438440f96c32f77fe
+      internalID: -702644706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assasin SpriteSheet_94
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 148
+        width: 32
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d04c43bbe90d11458513c4242bc3a8e
+      internalID: -2144509393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assasin SpriteSheet_95
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 191
+        width: 30
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4dce77d8a2dcbb4391b72e41ff6da0f
+      internalID: -936414854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assasin SpriteSheet_97
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 188
+        width: 31
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f8f84b1e5f7e0c4d91f5e97c096994f
+      internalID: 1815285456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assasin SpriteSheet_98
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 150
+        width: 32
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a71734c80de77f845b6e08739588036f
+      internalID: -515232422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assasin SpriteSheet_99
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 91
+        width: 30
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a871abdb742483c4cbbd53736a354a03
+      internalID: 665340351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assasin SpriteSheet_100
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 91
+        width: 30
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 236e0e7cffa332e428725ea059e7bc45
+      internalID: 52406082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assasin SpriteSheet_101
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 93
+        width: 36
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc98d8aa75b1b7845a745e23562c916d
+      internalID: -2141345337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assasin SpriteSheet_102
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 95
+        width: 30
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b7b7351f37a3014bbe756ae50f1757f
+      internalID: -1693211886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assasin SpriteSheet_103
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 100
+        width: 30
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b3a27a51c6a3fc49b2f88719a075b9c
+      internalID: -1124790255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assasin SpriteSheet_104
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 103
+        width: 29
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2714f57d12a6ba4e8fd133fcb4affc2
+      internalID: -736682114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assasin SpriteSheet_106
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 48
+        width: 30
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cf3b1066e436c346928331f0e20bac2
+      internalID: 1932635747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assasin SpriteSheet_107
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 49
+        width: 31
+        height: 27
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0396252f7a7684b4a912953bef6a0458
+      internalID: 436948803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assasin SpriteSheet_108
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 50
+        width: 31
+        height: 27
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2cad5518c3e9924c8f715b5b048d0c8
+      internalID: 1945424972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assasin SpriteSheet_109
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 50
+        width: 28
+        height: 27
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 584db513c9c487b43ba9f80519abba39
+      internalID: -1864571117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assasin SpriteSheet_110
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 49
+        width: 30
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 631c80f2729c3dc4b89fd06d94038ef6
+      internalID: -1181053377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assasin SpriteSheet_111
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 48
+        width: 38
+        height: 32
+      alignment: 9
+      pivot: {x: 0.7238802, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6790b94d807a0af439912669e28409a5
+      internalID: -2113656921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assasin SpriteSheet_112
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 51
+        width: 26
+        height: 33
+      alignment: 9
+      pivot: {x: 0.689851, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19f0ecd6b2a7d8e4189d629d02e88d38
+      internalID: -1572199341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assasin SpriteSheet_113
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 52
+        width: 28
+        height: 31
+      alignment: 9
+      pivot: {x: 0.689851, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffe8e50d29b2a90419f02de3d9bf421c
+      internalID: -858306863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assasin SpriteSheet_114
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 6
+        width: 28
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdd03b8a63771c34a929277ce61ad139
+      internalID: 1434816145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assasin SpriteSheet_115
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 5
+        width: 23
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 412428d7116de9847a002d0d0a6f78ae
+      internalID: 216108062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assasin SpriteSheet_116
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 3
+        width: 31
+        height: 35
+      alignment: 9
+      pivot: {x: 0.3125893, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f74770a0f264b94b847a04d0e6b9656
+      internalID: -1639403022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assasin SpriteSheet_117
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 4
+        width: 29
+        height: 35
+      alignment: 9
+      pivot: {x: 0.3125893, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51002d14aa143cc4687165b88f19dca5
+      internalID: -2093366051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assasin SpriteSheet_118
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 5
+        width: 26
+        height: 35
+      alignment: 9
+      pivot: {x: 0.3752577, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fec0142df22eaaf428449af16d3ddba4
+      internalID: 307757520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assasin SpriteSheet_119
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 5
+        width: 24
+        height: 35
+      alignment: 9
+      pivot: {x: 0.4097252, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cdf225d36a753f45b159579a540d6c6
+      internalID: -1089718198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assasin SpriteSheet_120
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 5
+        width: 24
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.00783592}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d523714c396daca409002388c5f678d7
+      internalID: 1447082966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Assasin SpriteSheet_0: 1014741372
+      Assasin SpriteSheet_1: 1958381061
+      Assasin SpriteSheet_10: 658044383
+      Assasin SpriteSheet_100: 52406082
+      Assasin SpriteSheet_101: -2141345337
+      Assasin SpriteSheet_102: -1693211886
+      Assasin SpriteSheet_103: -1124790255
+      Assasin SpriteSheet_104: -736682114
+      Assasin SpriteSheet_105: 1726226523
+      Assasin SpriteSheet_106: 1932635747
+      Assasin SpriteSheet_107: 436948803
+      Assasin SpriteSheet_108: 1945424972
+      Assasin SpriteSheet_109: -1864571117
+      Assasin SpriteSheet_11: -919372192
+      Assasin SpriteSheet_110: -1181053377
+      Assasin SpriteSheet_111: -2113656921
+      Assasin SpriteSheet_112: -1572199341
+      Assasin SpriteSheet_113: -858306863
+      Assasin SpriteSheet_114: 1434816145
+      Assasin SpriteSheet_115: 216108062
+      Assasin SpriteSheet_116: -1639403022
+      Assasin SpriteSheet_117: -2093366051
+      Assasin SpriteSheet_118: 307757520
+      Assasin SpriteSheet_119: -1089718198
+      Assasin SpriteSheet_12: 1706182218
+      Assasin SpriteSheet_120: 1447082966
+      Assasin SpriteSheet_13: 2132799464
+      Assasin SpriteSheet_14: 1131690470
+      Assasin SpriteSheet_15: -904294169
+      Assasin SpriteSheet_16: -369069612
+      Assasin SpriteSheet_17: 1405738038
+      Assasin SpriteSheet_18: 251586628
+      Assasin SpriteSheet_19: -1776912638
+      Assasin SpriteSheet_2: -1673000071
+      Assasin SpriteSheet_20: 847059170
+      Assasin SpriteSheet_21: -942978500
+      Assasin SpriteSheet_22: 1275241880
+      Assasin SpriteSheet_23: 757002515
+      Assasin SpriteSheet_24: 868611126
+      Assasin SpriteSheet_25: -480280633
+      Assasin SpriteSheet_26: 590533875
+      Assasin SpriteSheet_27: 1539821723
+      Assasin SpriteSheet_28: 467291353
+      Assasin SpriteSheet_29: 1041136685
+      Assasin SpriteSheet_3: -1085621831
+      Assasin SpriteSheet_30: 1012443587
+      Assasin SpriteSheet_31: 1411788420
+      Assasin SpriteSheet_32: 282156112
+      Assasin SpriteSheet_33: -1498045319
+      Assasin SpriteSheet_34: -1826062328
+      Assasin SpriteSheet_35: 2119976434
+      Assasin SpriteSheet_36: -1858107817
+      Assasin SpriteSheet_37: -1098234198
+      Assasin SpriteSheet_38: 250515587
+      Assasin SpriteSheet_39: 2014401442
+      Assasin SpriteSheet_4: -636275941
+      Assasin SpriteSheet_40: -910668674
+      Assasin SpriteSheet_41: 1243455559
+      Assasin SpriteSheet_42: -2089492660
+      Assasin SpriteSheet_43: 1829011077
+      Assasin SpriteSheet_44: -996047236
+      Assasin SpriteSheet_45: 1886729242
+      Assasin SpriteSheet_46: 1070814201
+      Assasin SpriteSheet_47: 137120693
+      Assasin SpriteSheet_48: -1397930756
+      Assasin SpriteSheet_49: 1646621335
+      Assasin SpriteSheet_5: -1602713844
+      Assasin SpriteSheet_50: -623692849
+      Assasin SpriteSheet_51: 2024548244
+      Assasin SpriteSheet_52: 1640597083
+      Assasin SpriteSheet_53: 264405942
+      Assasin SpriteSheet_54: 1733909368
+      Assasin SpriteSheet_55: -1686073757
+      Assasin SpriteSheet_56: -1031703042
+      Assasin SpriteSheet_57: -1023968116
+      Assasin SpriteSheet_58: 83028829
+      Assasin SpriteSheet_59: -493102596
+      Assasin SpriteSheet_6: -642906698
+      Assasin SpriteSheet_60: 661139561
+      Assasin SpriteSheet_61: -276880247
+      Assasin SpriteSheet_62: 878190752
+      Assasin SpriteSheet_63: 1125174614
+      Assasin SpriteSheet_64: 270945963
+      Assasin SpriteSheet_65: 1133247328
+      Assasin SpriteSheet_66: 228660511
+      Assasin SpriteSheet_67: 1111197072
+      Assasin SpriteSheet_68: 469330019
+      Assasin SpriteSheet_69: 654113934
+      Assasin SpriteSheet_7: -1259328879
+      Assasin SpriteSheet_70: 1129932108
+      Assasin SpriteSheet_71: -971080553
+      Assasin SpriteSheet_72: -365200594
+      Assasin SpriteSheet_73: -753138596
+      Assasin SpriteSheet_74: -351474260
+      Assasin SpriteSheet_75: 1100271878
+      Assasin SpriteSheet_76: 2017889476
+      Assasin SpriteSheet_77: 1360569432
+      Assasin SpriteSheet_78: 2119450971
+      Assasin SpriteSheet_79: 865402119
+      Assasin SpriteSheet_8: -1128306294
+      Assasin SpriteSheet_80: 565821549
+      Assasin SpriteSheet_81: 192220837
+      Assasin SpriteSheet_82: 436494062
+      Assasin SpriteSheet_83: -1291960575
+      Assasin SpriteSheet_84: -789637290
+      Assasin SpriteSheet_85: 851295110
+      Assasin SpriteSheet_86: 797778072
+      Assasin SpriteSheet_87: -327563046
+      Assasin SpriteSheet_88: -1530569938
+      Assasin SpriteSheet_89: -750173923
+      Assasin SpriteSheet_9: 87233720
+      Assasin SpriteSheet_90: 773747892
+      Assasin SpriteSheet_91: -670135940
+      Assasin SpriteSheet_92: -702644706
+      Assasin SpriteSheet_93: 960529050
+      Assasin SpriteSheet_94: -2144509393
+      Assasin SpriteSheet_95: -936414854
+      Assasin SpriteSheet_96: 371562176
+      Assasin SpriteSheet_97: 1815285456
+      Assasin SpriteSheet_98: -515232422
+      Assasin SpriteSheet_99: 665340351
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

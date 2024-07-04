@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 29a16e56240b1014c8a521d46fd5be0a, type: 3}
+  m_Name: ThickClothing
+  m_EditorClassIdentifier: 
+  p_name: Thick Clothing
+  p_sprite: {fileID: 0}
+  p_id: 
+  ItemType: 1
+  description: 
+  atk: 0
+  def: 5
+  magic: 5
+  speed: 0
+  critR: 0
+  EquipmentSlot: 1
+  WeaponType: 0
+  ArmorType: 3

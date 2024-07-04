@@ -1,0 +1,1531 @@
+fileFormatVersion: 2
+guid: 60162162d2957374ab0f2560e10129a4
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 10
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Female Mage Battler_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 606
+        width: 30
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d6f0a83f53631542a6bcb6de73d9283
+      internalID: 1176572539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Mage Battler_1
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 592
+        width: 29
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc477d624fc54dc488c50e05d1f1d470
+      internalID: 1942080278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Mage Battler_2
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 592
+        width: 31
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94b679a664b7bd94cbaf13686333e20b
+      internalID: -502372263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Mage Battler_3
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 592
+        width: 27
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: facdbb540347fa14989a1faf146d6603
+      internalID: 424858727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Mage Battler_4
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 592
+        width: 27
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8a11575fcb44794c8ed9f6f098ea674
+      internalID: 528583628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Mage Battler_5
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 592
+        width: 26
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e38c314a0c1aa548974b3e4bc3b77d8
+      internalID: 915746961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Mage Battler_6
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 592
+        width: 28
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db3fb787b41db804492652619e86e4b0
+      internalID: 345251919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Mage Battler_7
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 593
+        width: 29
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfa6f997e0fba194e929def6285de00b
+      internalID: -717258762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Mage Battler_8
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 593
+        width: 32
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 283179375ea23fa458d0270ef632f944
+      internalID: 1752909457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Mage Battler_9
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 593
+        width: 40
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fac6b864a55f95489b4bfb8d17a9747
+      internalID: -351474791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Mage Battler_10
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 593
+        width: 40
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 306a3fece7881c14db561bb7ddbe5c2f
+      internalID: 874183173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Mage Battler_11
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 593
+        width: 40
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89904948990bbdb4883672d579a63648
+      internalID: -223087242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Mage Battler_12
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 593
+        width: 39
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55f353b9dcd1ffb44a953a22ac270667
+      internalID: -1700450334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Mage Battler_13
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 526
+        width: 40
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff6d034673eb3f5489d9b6f4f09e442a
+      internalID: -952218637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Mage Battler_14
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 526
+        width: 40
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8705fdd4e267cbd4da057c0e441ff727
+      internalID: -1878453965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Mage Battler_15
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 526
+        width: 40
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b62c34e65af10eb48a07e06e11541fe0
+      internalID: -1716446349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Mage Battler_16
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 526
+        width: 39
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 255ae2ca518da944da85e04c9c288185
+      internalID: -957310641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Mage Battler_17
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 526
+        width: 37
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5e3d7cd330bd5349b62bb8501f32f5a
+      internalID: 736044399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Mage Battler_18
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 526
+        width: 32
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 545cf2aa8d26d404e9ce840b054661a1
+      internalID: -1672417393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Mage Battler_19
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 526
+        width: 29
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 949bb7a68b00e0644874c666e9f10593
+      internalID: 1286022999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Mage Battler_20
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 525
+        width: 25
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f5a49f2532638945ba6f274557eb5ee
+      internalID: -1494515749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Mage Battler_21
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 525
+        width: 24
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2fcfd21edc467d44baced79b01d5987
+      internalID: 253541246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Mage Battler_22
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 525
+        width: 23
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd8e9fd755e10ea4cad916649f801641
+      internalID: -1352890356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Mage Battler_23
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 525
+        width: 23
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaad2427ef8bf984c990790eb003989d
+      internalID: 1175741839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Mage Battler_24
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 525
+        width: 27
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dcb05e802ec2ce4097c12c48d2a013b
+      internalID: 1208619152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Mage Battler_25
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 458
+        width: 30
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 330bfb1af8aa2f94d948d2f81cf82b79
+      internalID: -1383014752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Mage Battler_26
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 458
+        width: 28
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 974e34850a6e5094199d60c50d9c3ebd
+      internalID: 1193686208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Mage Battler_27
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 458
+        width: 29
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e917fe9e0d5256f46aecdb029e14e3f5
+      internalID: -1768631311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Mage Battler_28
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 458
+        width: 29
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fc048351af546342be231866806999f
+      internalID: 40125530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Mage Battler_29
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 458
+        width: 29
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 221b3b32bf7e6b540b886c739d9c4fe1
+      internalID: -70432256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Mage Battler_30
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 382
+        width: 18
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bdc112ff0e245a49b536c065563289e
+      internalID: 867172173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Mage Battler_31
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 366
+        width: 29
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a3b4f51535550a42974d5b8ab04c774
+      internalID: 1898424521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Mage Battler_32
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 366
+        width: 29
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 632565227e1e8cd44a1f97917dd221aa
+      internalID: 1687583098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Mage Battler_33
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 366
+        width: 28
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5998f1c333d9b9a4780a58b0ed0d2d0c
+      internalID: -1109632185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Mage Battler_34
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 367
+        width: 29
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df5d1d983877e654b919520453e4dde0
+      internalID: 1525348160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Mage Battler_35
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 366
+        width: 28
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42d3e490330cd2145818a15f1ba7c02e
+      internalID: 233933591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Mage Battler_36
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 366
+        width: 30
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e108540cfa36d5345bda5f07d50ad2cc
+      internalID: -943533315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Mage Battler_37
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 366
+        width: 27
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce18ff96b0837484eaf6541265d151df
+      internalID: -155770697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Mage Battler_38
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 366
+        width: 30
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afaa2efe61cce244899c96a708bdb91a
+      internalID: -510011940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Mage Battler_39
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 366
+        width: 29
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ce02166b44e6cd40bff8d88bd31061b
+      internalID: 1214567890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Mage Battler_40
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 366
+        width: 30
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88031ccaa532ecc4680a0549196543fd
+      internalID: 2132889741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Mage Battler_41
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 366
+        width: 30
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ee212fedadf5264e861db8a71c379fa
+      internalID: -303953790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Mage Battler_42
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 366
+        width: 25
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d5c91436779d15429185dbd67eb1123
+      internalID: 1676094361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Mage Battler_43
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 299
+        width: 28
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4964e02b01dee145a400fe11b76dd43
+      internalID: -1978752825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Mage Battler_44
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 299
+        width: 28
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15b5d5e5bf2bf224f872228ae3504532
+      internalID: -1950730861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Mage Battler_45
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 299
+        width: 29
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cce527c24a7e1a43a1da4d85474a4b4
+      internalID: 368763656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Mage Battler_46
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 299
+        width: 30
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15fb6e225a06a3b49ac77d9d81d0a7f6
+      internalID: -1556181979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Mage Battler_47
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 299
+        width: 30
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da38f43d7edfdb347978507c60d190d8
+      internalID: -1430223413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Mage Battler_48
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 223
+        width: 26
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 522f0e381c63bb040a41f9572892a3bc
+      internalID: -1986136574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Mage Battler_49
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 207
+        width: 29
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7eb9b15d763c8249b47437a55e44deb
+      internalID: 1997348306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Mage Battler_50
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 207
+        width: 27
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45388b90e2d1718418d1258c0bcb448e
+      internalID: 719588791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Mage Battler_51
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 207
+        width: 28
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 395edab54d82cbf44817745933d08d2d
+      internalID: -630466476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Mage Battler_52
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 207
+        width: 27
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c56807a53045c64c9581893f2cc70f9
+      internalID: -1702748691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Mage Battler_53
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 129
+        width: 24
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 616300e1ffadacc44bd3a375cef16c2a
+      internalID: -1522336023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Mage Battler_54
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 115
+        width: 29
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cf417db85f97344e832dd6020175319
+      internalID: -2093013231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Mage Battler_55
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 115
+        width: 30
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eee7523c71b08d4c901e020ef4edfaf
+      internalID: 226449358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Mage Battler_56
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 115
+        width: 32
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccda7c273d18cae46b1beddd320ba20b
+      internalID: -1707907758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Mage Battler_57
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 115
+        width: 30
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b9cc303eef6e5c4aba2b980f95bf615
+      internalID: 2118198315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Mage Battler_58
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 46
+        width: 24
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3366951b961d7484eb67bbb663197c7a
+      internalID: -903556402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Mage Battler_59
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 22
+        width: 29
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4d06d869319c944797bb71a543ca821
+      internalID: 1756837837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Mage Battler_60
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 22
+        width: 31
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33b66b447d47b124b8db5911f959b6db
+      internalID: -1917368368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Mage Battler_61
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 22
+        width: 34
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44b89f5050883da41a15143d16d815b5
+      internalID: -1862849907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Mage Battler_62
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 22
+        width: 31
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 960fa35f95ef76745991e8840aed0124
+      internalID: 1152364245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Mage Battler_63
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 31
+        width: 26
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd3ab3e0a020cb74b92e6e68896c388d
+      internalID: -965570044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Female Mage Battler_0: 1176572539
+      Female Mage Battler_1: 1942080278
+      Female Mage Battler_10: 874183173
+      Female Mage Battler_11: -223087242
+      Female Mage Battler_12: -1700450334
+      Female Mage Battler_13: -952218637
+      Female Mage Battler_14: -1878453965
+      Female Mage Battler_15: -1716446349
+      Female Mage Battler_16: -957310641
+      Female Mage Battler_17: 736044399
+      Female Mage Battler_18: -1672417393
+      Female Mage Battler_19: 1286022999
+      Female Mage Battler_2: -502372263
+      Female Mage Battler_20: -1494515749
+      Female Mage Battler_21: 253541246
+      Female Mage Battler_22: -1352890356
+      Female Mage Battler_23: 1175741839
+      Female Mage Battler_24: 1208619152
+      Female Mage Battler_25: -1383014752
+      Female Mage Battler_26: 1193686208
+      Female Mage Battler_27: -1768631311
+      Female Mage Battler_28: 40125530
+      Female Mage Battler_29: -70432256
+      Female Mage Battler_3: 424858727
+      Female Mage Battler_30: 867172173
+      Female Mage Battler_31: 1898424521
+      Female Mage Battler_32: 1687583098
+      Female Mage Battler_33: -1109632185
+      Female Mage Battler_34: 1525348160
+      Female Mage Battler_35: 233933591
+      Female Mage Battler_36: -943533315
+      Female Mage Battler_37: -155770697
+      Female Mage Battler_38: -510011940
+      Female Mage Battler_39: 1214567890
+      Female Mage Battler_4: 528583628
+      Female Mage Battler_40: 2132889741
+      Female Mage Battler_41: -303953790
+      Female Mage Battler_42: 1676094361
+      Female Mage Battler_43: -1978752825
+      Female Mage Battler_44: -1950730861
+      Female Mage Battler_45: 368763656
+      Female Mage Battler_46: -1556181979
+      Female Mage Battler_47: -1430223413
+      Female Mage Battler_48: -1986136574
+      Female Mage Battler_49: 1997348306
+      Female Mage Battler_5: 915746961
+      Female Mage Battler_50: 719588791
+      Female Mage Battler_51: -630466476
+      Female Mage Battler_52: -1702748691
+      Female Mage Battler_53: -1522336023
+      Female Mage Battler_54: -2093013231
+      Female Mage Battler_55: 226449358
+      Female Mage Battler_56: -1707907758
+      Female Mage Battler_57: 2118198315
+      Female Mage Battler_58: -903556402
+      Female Mage Battler_59: 1756837837
+      Female Mage Battler_6: 345251919
+      Female Mage Battler_60: -1917368368
+      Female Mage Battler_61: -1862849907
+      Female Mage Battler_62: 1152364245
+      Female Mage Battler_63: -965570044
+      Female Mage Battler_7: -717258762
+      Female Mage Battler_8: 1752909457
+      Female Mage Battler_9: -351474791
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c2a0e9496c2d814894796931a2da6da, type: 3}
+  m_Name: BasicHPPotion
+  m_EditorClassIdentifier: 
+  p_name: Basic HP Potion
+  p_sprite: {fileID: -1991002604, guid: b85fcd76b4de3c3438ce6abed4a812a4, type: 3}
+  p_id: P001
+  ItemType: 0
+  Effect: {fileID: 0}
+  description: A small bottle of a chemical concotion capable of healing small wounds.
+    Heals 10 HP

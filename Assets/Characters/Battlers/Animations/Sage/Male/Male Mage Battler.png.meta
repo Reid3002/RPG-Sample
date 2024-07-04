@@ -1,0 +1,1465 @@
+fileFormatVersion: 2
+guid: ac63482f1dab85c4a8dbc17e1ee07f11
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 10
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Male Mage Battler_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 617
+        width: 30
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dcc53575a5855b45bb07f9ee69ea98f
+      internalID: 2066158013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male Mage Battler_1
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 599
+        width: 30
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82be56d2ece27ea41a8f944f7af29277
+      internalID: 1344169668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male Mage Battler_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 599
+        width: 28
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f1140d01259aab49a5697396aef4300
+      internalID: 242227138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male Mage Battler_3
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 599
+        width: 28
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbcf386b52233f641acb57569720590a
+      internalID: 1699633390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male Mage Battler_4
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 599
+        width: 26
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 324af7dc918e2294b83d480ebf17e0af
+      internalID: -1797677422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male Mage Battler_5
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 599
+        width: 26
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36dccac5b3b270643809cad5ccd5fe9f
+      internalID: -443563377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male Mage Battler_6
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 599
+        width: 30
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a13f7be63d65cf94380bff6caa92edd0
+      internalID: 560581788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male Mage Battler_7
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 600
+        width: 29
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0c09e79d07e79c40a44cbe2702c5a42
+      internalID: 1435688793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male Mage Battler_8
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 600
+        width: 31
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbb0f1788e4886d40903b1387180ba20
+      internalID: -1329795480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male Mage Battler_9
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 600
+        width: 41
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c398e48c3ace3e849935bd1ea4b69113
+      internalID: -2039358728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male Mage Battler_10
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 600
+        width: 41
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82e21bef7b2143140838a67d2e8d6618
+      internalID: -813801867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male Mage Battler_11
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 600
+        width: 41
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 225fae0408fcb6c4c8e71ca51de79191
+      internalID: -54674761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male Mage Battler_12
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 600
+        width: 41
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb2dcb1b07d89534db31ae9ba2929333
+      internalID: -1709838931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male Mage Battler_13
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 533
+        width: 41
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 007cb914bf4e77c4f9328d85af4fd6dc
+      internalID: -481958950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male Mage Battler_14
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 533
+        width: 41
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d30e8d75dac377439bf24482936fb6a
+      internalID: 1037336227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male Mage Battler_15
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 533
+        width: 41
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6f55c3342665db4fa849571fd9d3aec
+      internalID: -191420175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male Mage Battler_16
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 533
+        width: 40
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9e04ec7b3ee01c4caea9883f91cdf39
+      internalID: 1268934599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male Mage Battler_17
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 533
+        width: 37
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b56877ffec5b0f44cacd54e8a5f1b797
+      internalID: -148898009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male Mage Battler_18
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 533
+        width: 32
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c590737c66163b4a8dddc02052ae354
+      internalID: 1507506548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male Mage Battler_19
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 533
+        width: 29
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d55878f30ca2d2f48a1102d584119e25
+      internalID: -1493402655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male Mage Battler_20
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 533
+        width: 23
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7acebaf981bba74c99c0ad9af944482
+      internalID: 779785853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male Mage Battler_21
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 534
+        width: 26
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c29b77e22b348f4dac30f25a93ac014
+      internalID: -1799850702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male Mage Battler_22
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 531
+        width: 22
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c091edab590937b4aa47b284f0b0cfab
+      internalID: -1009961892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male Mage Battler_23
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 532
+        width: 20
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41a50496562adb240921bd9c8c243f1f
+      internalID: 624941457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male Mage Battler_24
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 532
+        width: 25
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77db94933b0358540b5b4f77bb70ed5d
+      internalID: -290711309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male Mage Battler_25
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 465
+        width: 30
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f73d3706cec2844592d0e3072261f47
+      internalID: -199274163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male Mage Battler_26
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 465
+        width: 29
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d67f1b43ad0c8a4793d74e7a8cf9a5c
+      internalID: -193756809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male Mage Battler_27
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 387
+        width: 18
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c6e3eb6849d92d4582ad52b5172fc29
+      internalID: -10261151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male Mage Battler_28
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 373
+        width: 30
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48d71773c97aa8d46a365b4e487dda7a
+      internalID: -1744544942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male Mage Battler_29
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 373
+        width: 28
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85b6064a3cf7226478d140117e2a8765
+      internalID: 469736703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male Mage Battler_30
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 373
+        width: 28
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ebbe316192a7be4884a5e7b48def2bf
+      internalID: -262561871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male Mage Battler_31
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 373
+        width: 29
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04d40592c4cd3f0428364f5f0294da80
+      internalID: -425889114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male Mage Battler_32
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 373
+        width: 29
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81e0737301c8c1b4294ac31ee3ef7dc6
+      internalID: -2052494868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male Mage Battler_33
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 373
+        width: 27
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fcfe9204271d62498b05b497e583db0
+      internalID: -1279084250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male Mage Battler_34
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 373
+        width: 30
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3ad9cac50d87244b901e9c3803dc24d
+      internalID: -823785826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male Mage Battler_35
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 373
+        width: 31
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 946985148ed56014e98ace96bf69b3f3
+      internalID: 949146240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male Mage Battler_36
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 373
+        width: 35
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc1e9d2ede5352947a2427fea29e1beb
+      internalID: -38325805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male Mage Battler_37
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 373
+        width: 31
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 904ccce5599008c4fb5dfc8adc20e14b
+      internalID: -1931138402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male Mage Battler_38
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 373
+        width: 27
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3707d9ba772ff8e49899dc3ef929299a
+      internalID: 961930506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male Mage Battler_39
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 373
+        width: 25
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7b81c1414d68e448a2cb818d77c6bf2
+      internalID: -403750130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male Mage Battler_40
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 306
+        width: 29
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7705911a32b3f404a89cf6741e1b44fe
+      internalID: 1612668155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male Mage Battler_41
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 306
+        width: 31
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c98cc85d7bb626f469ff7f243b09c34d
+      internalID: -1858679610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male Mage Battler_42
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 306
+        width: 27
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7822515626160814ba43738477847384
+      internalID: 1757134081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male Mage Battler_43
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 306
+        width: 27
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 414fb65d54109644997cfdfcbe873702
+      internalID: 688234415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male Mage Battler_44
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 306
+        width: 27
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48896e6bfa9cb0e49a8020b10032c186
+      internalID: -1420710914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male Mage Battler_45
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 229
+        width: 26
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61cf1d6aaf869d54797b766695aa1867
+      internalID: 1534990078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male Mage Battler_46
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 214
+        width: 30
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aae17edfff915dc47a485a30a73e2929
+      internalID: 1509860988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male Mage Battler_47
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 214
+        width: 28
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0561714dd17e14f46a8ba68761f8ed3a
+      internalID: 1116807637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male Mage Battler_48
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 214
+        width: 28
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 496d3d2e5c1bd1f4f86a673bcda17a6a
+      internalID: 1401377926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male Mage Battler_49
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 214
+        width: 28
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97d3fc804a4604e4da4991b07d63d927
+      internalID: -1614715785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male Mage Battler_50
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 138
+        width: 24
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb630d111de429e4b95284cc685e40a6
+      internalID: 1350182507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male Mage Battler_51
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 122
+        width: 30
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5312fd0b34b1ac745bef25b9ad8a0f52
+      internalID: -1010098647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male Mage Battler_52
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 122
+        width: 31
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 322bc8a640987504a8b4d6e9b4224f34
+      internalID: -59132350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male Mage Battler_53
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 122
+        width: 34
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b55297c626a367d48abe3a11a307984d
+      internalID: 1274819847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male Mage Battler_54
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 122
+        width: 31
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 161c094fbb07ffd43b039c858a2575ed
+      internalID: -1869209183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male Mage Battler_55
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 53
+        width: 24
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa5b2ac883ed134409e052ef1b064695
+      internalID: -859033365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male Mage Battler_56
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 30
+        width: 30
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9978618e3cd55574e88b884f7754905b
+      internalID: 1163402807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male Mage Battler_57
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 30
+        width: 33
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf2c1acd807d83d488308eb8a0944492
+      internalID: -233460666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male Mage Battler_58
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 30
+        width: 36
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0395bd0b23ca50345962172de43f4cbf
+      internalID: 1111122765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male Mage Battler_59
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 30
+        width: 33
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d224729c83ac0540bc748e871c50b98
+      internalID: -285327407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male Mage Battler_60
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 38
+        width: 26
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49c3e79f54d572f45ab7ef49f70fc5b7
+      internalID: 926720951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Male Mage Battler_0: 2066158013
+      Male Mage Battler_1: 1344169668
+      Male Mage Battler_10: -813801867
+      Male Mage Battler_11: -54674761
+      Male Mage Battler_12: -1709838931
+      Male Mage Battler_13: -481958950
+      Male Mage Battler_14: 1037336227
+      Male Mage Battler_15: -191420175
+      Male Mage Battler_16: 1268934599
+      Male Mage Battler_17: -148898009
+      Male Mage Battler_18: 1507506548
+      Male Mage Battler_19: -1493402655
+      Male Mage Battler_2: 242227138
+      Male Mage Battler_20: 779785853
+      Male Mage Battler_21: -1799850702
+      Male Mage Battler_22: -1009961892
+      Male Mage Battler_23: 624941457
+      Male Mage Battler_24: -290711309
+      Male Mage Battler_25: -199274163
+      Male Mage Battler_26: -193756809
+      Male Mage Battler_27: -10261151
+      Male Mage Battler_28: -1744544942
+      Male Mage Battler_29: 469736703
+      Male Mage Battler_3: 1699633390
+      Male Mage Battler_30: -262561871
+      Male Mage Battler_31: -425889114
+      Male Mage Battler_32: -2052494868
+      Male Mage Battler_33: -1279084250
+      Male Mage Battler_34: -823785826
+      Male Mage Battler_35: 949146240
+      Male Mage Battler_36: -38325805
+      Male Mage Battler_37: -1931138402
+      Male Mage Battler_38: 961930506
+      Male Mage Battler_39: -403750130
+      Male Mage Battler_4: -1797677422
+      Male Mage Battler_40: 1612668155
+      Male Mage Battler_41: -1858679610
+      Male Mage Battler_42: 1757134081
+      Male Mage Battler_43: 688234415
+      Male Mage Battler_44: -1420710914
+      Male Mage Battler_45: 1534990078
+      Male Mage Battler_46: 1509860988
+      Male Mage Battler_47: 1116807637
+      Male Mage Battler_48: 1401377926
+      Male Mage Battler_49: -1614715785
+      Male Mage Battler_5: -443563377
+      Male Mage Battler_50: 1350182507
+      Male Mage Battler_51: -1010098647
+      Male Mage Battler_52: -59132350
+      Male Mage Battler_53: 1274819847
+      Male Mage Battler_54: -1869209183
+      Male Mage Battler_55: -859033365
+      Male Mage Battler_56: 1163402807
+      Male Mage Battler_57: -233460666
+      Male Mage Battler_58: 1111122765
+      Male Mage Battler_59: -285327407
+      Male Mage Battler_6: 560581788
+      Male Mage Battler_60: 926720951
+      Male Mage Battler_7: 1435688793
+      Male Mage Battler_8: -1329795480
+      Male Mage Battler_9: -2039358728
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

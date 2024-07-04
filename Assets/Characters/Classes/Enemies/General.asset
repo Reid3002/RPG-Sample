@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 92b4de3d22924b143b2b09fea97d197c, type: 3}
+  m_Name: General
+  m_EditorClassIdentifier: 
+  name: General
+  Id: 7
+  ClassIcon: {fileID: 450380429, guid: 0b4ea13ab6134b84180d32731d77369a, type: 3}
+  MaxHPModifier: 0
+  MaxSPModifier: 0
+  AtkModifier: 0
+  DefModifier: 0
+  MagicModifier: 0
+  SpeedModifier: 0
+  CritRModifier: 0
+  Weapon: 0
+  Armor: 0
+  SkillList:
+  - {fileID: 11400000, guid: 04fca603d027c5f45885fe5b43c8d4f9, type: 2}
+  - {fileID: 11400000, guid: da34f3895d16b7b46a22f62fc668b1d9, type: 2}
+  - {fileID: 11400000, guid: d622a831bc37af94396f9b0a39388074, type: 2}
+  - {fileID: 11400000, guid: ede40c3d2260357499b4726469397d2d, type: 2}
+  Battler: {fileID: 1152842284259369189, guid: 7eeae90b2fd2c6043864bca3157b4d26, type: 3}

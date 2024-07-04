@@ -1,0 +1,893 @@
+fileFormatVersion: 2
+guid: eed4ca1c8e306cd4e92426e5ea5d25aa
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 10
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mercenary Attack_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 319
+        width: 29
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 799c3c920cf2fcd41a0fb886ff71d487
+      internalID: -1586631543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mercenary Attack_1
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 319
+        width: 32
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9d42635155480e4691c9ea93e59ef64
+      internalID: -512105405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mercenary Attack_2
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 319
+        width: 33
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5ae1defded1efa4ea5d6551d94d3691
+      internalID: 1790518554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mercenary Attack_3
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 271
+        width: 27
+        height: 83
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5048cf2209c157a459cdc5dadf491bc2
+      internalID: -1052773227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mercenary Attack_4
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 271
+        width: 33
+        height: 86
+      alignment: 9
+      pivot: {x: 0.6001693, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99c124982bd7d9849858272fe7c5d69e
+      internalID: 902036452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mercenary Attack_5
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 270
+        width: 34
+        height: 92
+      alignment: 9
+      pivot: {x: 0.6196594, y: -0.002763831}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8250dbef8f0d73449a150a033b6f8226
+      internalID: 1140051446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mercenary Attack_6
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 271
+        width: 26
+        height: 85
+      alignment: 9
+      pivot: {x: 0.71515715, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b69d1acd17f704749abfcdc5a69fc918
+      internalID: 608260361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mercenary Attack_7
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 271
+        width: 26
+        height: 85
+      alignment: 9
+      pivot: {x: 0.6955966, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61a8ba1acbe5ee0449f8319bc561d7e7
+      internalID: -799059574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mercenary Attack_8
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 271
+        width: 24
+        height: 87
+      alignment: 9
+      pivot: {x: 0.61654407, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b4de5293ab2544478efb95ea4903b31
+      internalID: -1552553537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mercenary Attack_9
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 271
+        width: 29
+        height: 87
+      alignment: 9
+      pivot: {x: 0.6052172, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c699c002264b28d4783dfbde31c16a86
+      internalID: -132419938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mercenary Attack_10
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 271
+        width: 26
+        height: 88
+      alignment: 9
+      pivot: {x: 0.5977983, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0348a4e188c0df34abd1374094717783
+      internalID: 1773046003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mercenary Attack_11
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 271
+        width: 29
+        height: 89
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 148b27534ef740742ae816e118d7b106
+      internalID: 1318658250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mercenary Attack_12
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 223
+        width: 26
+        height: 85
+      alignment: 9
+      pivot: {x: 0.6071475, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ea21c8f60371884e8395a279f1ea9ad
+      internalID: 2061577310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mercenary Attack_13
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 223
+        width: 31
+        height: 84
+      alignment: 9
+      pivot: {x: 0.6347981, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e243627486ea51b46b1f74c436d45186
+      internalID: 688677427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mercenary Attack_24
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 164
+        width: 41
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f794930b5f17a514d82a9f4665e9fa0f
+      internalID: 914586417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mercenary Attack_25
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 164
+        width: 46
+        height: 86
+      alignment: 9
+      pivot: {x: 0.23558807, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9905b684b58dd064fa50f09fea18235c
+      internalID: -802373573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mercenary Attack_26
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 165
+        width: 33
+        height: 96
+      alignment: 9
+      pivot: {x: 0.36053976, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca37ff7b83fd43b499ab1647fa811f8e
+      internalID: -283675290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mercenary Attack_27
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 165
+        width: 32
+        height: 91
+      alignment: 9
+      pivot: {x: 0.3561821, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bc02ef028687a94083eb8a94e9a7d7e
+      internalID: -1723290695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mercenary Attack_28
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 164
+        width: 52
+        height: 79
+      alignment: 9
+      pivot: {x: 0.7971209, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8b2a7bec2cc9f24fa09fdc0cdd04942
+      internalID: 1041482048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mercenary Attack_33
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 164
+        width: 60
+        height: 31
+      alignment: 9
+      pivot: {x: 0.77394104, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0000ed2aa2043a3449507439e9ad99cc
+      internalID: 1789727904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mercenary Attack_35
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 83
+        width: 52
+        height: 54
+      alignment: 9
+      pivot: {x: 0.7177601, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6982ad2e126678e47928eac9eae15527
+      internalID: 441019642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mercenary Attack_36
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 83
+        width: 27
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72c740ff82ff4b74f9af2f7782d5d026
+      internalID: -1702255072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mercenary Attack_37
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 74
+        width: 31
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d77b7a5f0a36d174c86279e80ad69f53
+      internalID: 692927029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mercenary Attack_38
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 74
+        width: 30
+        height: 83
+      alignment: 9
+      pivot: {x: 0.36430004, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ac8294c8aa13d2458bf94a4c72cf442
+      internalID: -1818821232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mercenary Attack_39
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 74
+        width: 32
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57d463f6682b69a4ebccfda6bc5a7143
+      internalID: 641762938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mercenary Attack_40
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 74
+        width: 32
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8b1358a5fef5f64aa6f8db6ce03d9eb
+      internalID: -716901883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mercenary Attack_41
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 74
+        width: 29
+        height: 77
+      alignment: 9
+      pivot: {x: 0.64817965, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95ab0398e7f669a43b696293c555242c
+      internalID: -1837626176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mercenary Attack_42
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 74
+        width: 25
+        height: 76
+      alignment: 9
+      pivot: {x: 0.37334716, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb2b43caa581bc249b9c4d3d60c1a14c
+      internalID: 1358810234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mercenary Attack_43
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 74
+        width: 28
+        height: 72
+      alignment: 9
+      pivot: {x: 0.42730495, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fed6d679475a9b5468c3a803391c13ac
+      internalID: -40103142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mercenary Attack_44
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 83
+        width: 58
+        height: 31
+      alignment: 9
+      pivot: {x: 0.7550483, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19fe80ea0239c684d96a15ceecf3288a
+      internalID: 774711866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mercenary Attack_51
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 8
+        width: 28
+        height: 66
+      alignment: 9
+      pivot: {x: 0.4033466, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbe1f34bc1aefb84eb387780ae5246c1
+      internalID: -1680382253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mercenary Attack_52
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 8
+        width: 30
+        height: 61
+      alignment: 9
+      pivot: {x: 0.38897273, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39acc356ef06eed428c563024ae26955
+      internalID: -577319889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mercenary Attack_53
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 8
+        width: 32
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57cf7913a4e41704eb7f01b6d5a2ed95
+      internalID: 327248400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mercenary Attack_54
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 8
+        width: 29
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 120c277ceae06c24aa1687d68c85062b
+      internalID: -215645343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Mercenary Attack_0: -1586631543
+      Mercenary Attack_1: -512105405
+      Mercenary Attack_10: 1773046003
+      Mercenary Attack_11: 1318658250
+      Mercenary Attack_12: 2061577310
+      Mercenary Attack_13: 688677427
+      Mercenary Attack_14: -1133131486
+      Mercenary Attack_15: -1150940582
+      Mercenary Attack_16: 1183330711
+      Mercenary Attack_17: -2075480357
+      Mercenary Attack_18: -1440524367
+      Mercenary Attack_19: 1611756129
+      Mercenary Attack_2: 1790518554
+      Mercenary Attack_20: 548774558
+      Mercenary Attack_21: -2112179574
+      Mercenary Attack_22: 19458998
+      Mercenary Attack_23: -1261825024
+      Mercenary Attack_24: 914586417
+      Mercenary Attack_25: -802373573
+      Mercenary Attack_26: -283675290
+      Mercenary Attack_27: -1723290695
+      Mercenary Attack_28: 1041482048
+      Mercenary Attack_29: -261178001
+      Mercenary Attack_3: -1052773227
+      Mercenary Attack_30: -1267505594
+      Mercenary Attack_31: 1522116641
+      Mercenary Attack_32: -1125462327
+      Mercenary Attack_33: 1789727904
+      Mercenary Attack_34: -1171424250
+      Mercenary Attack_35: 441019642
+      Mercenary Attack_36: -1702255072
+      Mercenary Attack_37: 692927029
+      Mercenary Attack_38: -1818821232
+      Mercenary Attack_39: 641762938
+      Mercenary Attack_4: 902036452
+      Mercenary Attack_40: -716901883
+      Mercenary Attack_41: -1837626176
+      Mercenary Attack_42: 1358810234
+      Mercenary Attack_43: -40103142
+      Mercenary Attack_44: 774711866
+      Mercenary Attack_45: 38585941
+      Mercenary Attack_46: 7157575
+      Mercenary Attack_47: 222244425
+      Mercenary Attack_48: 1447989750
+      Mercenary Attack_49: -376679949
+      Mercenary Attack_5: 1140051446
+      Mercenary Attack_50: 928980041
+      Mercenary Attack_51: -1680382253
+      Mercenary Attack_52: -577319889
+      Mercenary Attack_53: 327248400
+      Mercenary Attack_54: -215645343
+      Mercenary Attack_55: -897715477
+      Mercenary Attack_6: 608260361
+      Mercenary Attack_7: -799059574
+      Mercenary Attack_8: -1552553537
+      Mercenary Attack_9: -132419938
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

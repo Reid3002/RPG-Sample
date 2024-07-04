@@ -1,0 +1,509 @@
+fileFormatVersion: 2
+guid: 29497123902d30c46b272c7818be0e38
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 10
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Berserker Crit_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 209
+        width: 32
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 731a60625347f4642bd4e9a475efb620
+      internalID: 1344117395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Berserker Crit_1
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 207
+        width: 57
+        height: 61
+      alignment: 9
+      pivot: {x: 0.7419211, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20735931112d3834b8baf4cad2a4d827
+      internalID: 1060266137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Berserker Crit_5
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 214
+        width: 54
+        height: 41
+      alignment: 9
+      pivot: {x: 0.7149551, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa2e5a4faeec89a4ab8bf1e55d704fb7
+      internalID: 1586485823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Berserker Crit_6
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 202
+        width: 42
+        height: 84
+      alignment: 9
+      pivot: {x: 0.64227223, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be90e0cab15a35646aabc468a46e87d6
+      internalID: 1589623056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Berserker Crit_7
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 201
+        width: 39
+        height: 82
+      alignment: 9
+      pivot: {x: 0.61196584, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b8e9bf3bcd00794a98131d3638f0b86
+      internalID: -1294555811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Berserker Crit_8
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 201
+        width: 41
+        height: 89
+      alignment: 9
+      pivot: {x: 0.62332004, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d3eb6e7267865a45b13987dd75cea62
+      internalID: 1750487556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Berserker Crit_15
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 111
+        width: 48
+        height: 80
+      alignment: 9
+      pivot: {x: 0.67715687, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 657d86ad48830444eaea63cc391b83e6
+      internalID: -1663609313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Berserker Crit_16
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 110
+        width: 52
+        height: 88
+      alignment: 9
+      pivot: {x: 0.70772654, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00975bd3ec58a0142b89ca3b6b20746c
+      internalID: -1936963518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Berserker Crit_17
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 104
+        width: 42
+        height: 94
+      alignment: 9
+      pivot: {x: 0.6258563, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17c6968a27ce23b40a5cdedcae984c8c
+      internalID: -338210899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Berserker Crit_18
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 106
+        width: 40
+        height: 92
+      alignment: 9
+      pivot: {x: 0.6149124, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83b8c0b7953b201499b43ea57f55bfdb
+      internalID: 1135786867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Berserker Crit_19
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 105
+        width: 45
+        height: 86
+      alignment: 9
+      pivot: {x: 0.6634311, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4f1ddccc5db16a42ad076e991584a5a
+      internalID: -621695719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Berserker Crit_20
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 104
+        width: 39
+        height: 83
+      alignment: 9
+      pivot: {x: 0.60607284, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12fb91394172663438a7da309ab09604
+      internalID: 1106295815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Berserker Crit_24
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 15
+        width: 55
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75856572256aafb41ba1f7f28e1fd567
+      internalID: -779718740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Berserker Crit_25
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 18
+        width: 45
+        height: 82
+      alignment: 9
+      pivot: {x: 0.65832394, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 257c35fdf0d531f4d92d36309aabd4e0
+      internalID: -1859719579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Berserker Crit_26
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 17
+        width: 50
+        height: 85
+      alignment: 9
+      pivot: {x: 0.70224607, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 896e24d882f292546a781e9c666c379e
+      internalID: 152799512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Berserker Crit_27
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 9
+        width: 49
+        height: 88
+      alignment: 9
+      pivot: {x: 0.6876121, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa5c567b26f443b4490bae95b7d070a8
+      internalID: 1158035390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Berserker Crit_28
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 20
+        width: 70
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d8a967405b59474faee5958168ee622
+      internalID: -1366761371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Berserker Crit_0: 1344117395
+      Berserker Crit_1: 1060266137
+      Berserker Crit_10: -691421456
+      Berserker Crit_11: 655855990
+      Berserker Crit_12: 1409692970
+      Berserker Crit_13: 913084309
+      Berserker Crit_14: 1610003560
+      Berserker Crit_15: -1663609313
+      Berserker Crit_16: -1936963518
+      Berserker Crit_17: -338210899
+      Berserker Crit_18: 1135786867
+      Berserker Crit_19: -621695719
+      Berserker Crit_2: -608621384
+      Berserker Crit_20: 1106295815
+      Berserker Crit_21: 685672618
+      Berserker Crit_22: -2011209390
+      Berserker Crit_23: 278870763
+      Berserker Crit_24: -779718740
+      Berserker Crit_25: -1859719579
+      Berserker Crit_26: 152799512
+      Berserker Crit_27: 1158035390
+      Berserker Crit_28: -1366761371
+      Berserker Crit_3: 1346261412
+      Berserker Crit_4: -1886494182
+      Berserker Crit_5: 1586485823
+      Berserker Crit_6: 1589623056
+      Berserker Crit_7: -1294555811
+      Berserker Crit_8: 1750487556
+      Berserker Crit_9: 1103992573
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
