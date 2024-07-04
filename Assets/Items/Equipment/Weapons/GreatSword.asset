@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: GreatSword
   m_EditorClassIdentifier: 
   p_name: Great Sword
-  p_sprite: {fileID: 0}
+  p_sprite: {fileID: 2142741613, guid: 730d2500f5b5cc149b5a9c9cc641b7cc, type: 3}
   p_id: 
   ItemType: 1
   description: 

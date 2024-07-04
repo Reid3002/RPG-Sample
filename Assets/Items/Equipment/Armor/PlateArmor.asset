@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: PlateArmor
   m_EditorClassIdentifier: 
   p_name: Plate Armor
-  p_sprite: {fileID: 0}
+  p_sprite: {fileID: -2057714919, guid: 08bc9d7e33db0d945835fa49138b6218, type: 3}
   p_id: 
   ItemType: 1
   description: A full steel plate armor suit

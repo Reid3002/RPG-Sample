@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: SteelSword
   m_EditorClassIdentifier: 
   p_name: Steel Sword
-  p_sprite: {fileID: 0}
+  p_sprite: {fileID: 78313027, guid: 730d2500f5b5cc149b5a9c9cc641b7cc, type: 3}
   p_id: 
   ItemType: 0
   description: A regular sword

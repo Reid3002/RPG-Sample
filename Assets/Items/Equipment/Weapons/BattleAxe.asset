@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: BattleAxe
   m_EditorClassIdentifier: 
   p_name: Battle Axe
-  p_sprite: {fileID: 0}
+  p_sprite: {fileID: 1644521121, guid: 730d2500f5b5cc149b5a9c9cc641b7cc, type: 3}
   p_id: 
   ItemType: 1
   description: A weapon designed to inflict heavy damge on foes

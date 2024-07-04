@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: ThickClothing
   m_EditorClassIdentifier: 
   p_name: Thick Clothing
-  p_sprite: {fileID: 0}
+  p_sprite: {fileID: -1244854095, guid: 08bc9d7e33db0d945835fa49138b6218, type: 3}
   p_id: 
   ItemType: 1
   description: 

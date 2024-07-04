@@ -12,8 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 29a16e56240b1014c8a521d46fd5be0a, type: 3}
   m_Name: Excalibur
   m_EditorClassIdentifier: 
-  p_name: 
-  p_sprite: {fileID: 0}
+  p_name: Excalibur
+  p_sprite: {fileID: 688767066, guid: 730d2500f5b5cc149b5a9c9cc641b7cc, type: 3}
   p_id: 
   ItemType: 1
   description: A sword blessed by the lady of the lake
